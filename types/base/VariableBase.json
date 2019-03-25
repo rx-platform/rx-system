@@ -1,0 +1,32 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Events" : null,
+         "Filters" : null,
+         "Items" : [
+            {
+               "Name" : "Description",
+               "Type" : "const_value",
+               "_Val" : {
+                  "Type" : 13,
+                  "Val" : ""
+               }
+            }
+         ],
+         "Mappers" : null,
+         "Sealed" : false,
+         "Sources" : null
+      },
+      "Meta" : {
+         "Attrs" : 32,
+         "Name" : "VariableBase",
+         "NodeId" : "i:6",
+         "Path" : "/_sys/types/base",
+         "SuperId" : "i:0",
+         "Type" : "variable_type",
+         "Ver" : "1.0"
+      }
+   }
+}

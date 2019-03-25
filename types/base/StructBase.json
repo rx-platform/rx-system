@@ -1,21 +1,12 @@
 {
-   "class" : {
+   "sversion" : "0.9",
+   "type" : {
       "Def" : {
          "Abstract" : false,
-         "Constructible" : false,
          "Items" : [
             {
                "Name" : "Description",
                "Type" : "const_value",
-               "_Val" : {
-                  "Type" : 13,
-                  "Val" : ""
-               }
-            },
-            {
-               "Name" : "Note",
-               "RO" : false,
-               "Type" : "value",
                "_Val" : {
                   "Type" : 13,
                   "Val" : ""
@@ -26,13 +17,13 @@
          "Sealed" : false
       },
       "Meta" : {
-         "Attrs" : 33,
-         "Name" : "ObjectBase",
-         "NodeId" : "i:1",
+         "Attrs" : 32,
+         "Name" : "StructBase",
+         "NodeId" : "i:5",
+         "Path" : "/_sys/types/base",
          "SuperId" : "i:0",
-         "Type" : "object_type",
+         "Type" : "struct_type",
          "Ver" : "1.0"
       }
-   },
-   "sversion" : "0.9"
+   }
 }

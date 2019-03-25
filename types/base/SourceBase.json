@@ -1,0 +1,28 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Items" : [
+            {
+               "Name" : "Description",
+               "Type" : "const_value",
+               "_Val" : {
+                  "Type" : 13,
+                  "Val" : ""
+               }
+            }
+         ],
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 32,
+         "Name" : "SourceBase",
+         "NodeId" : "i:8",
+         "Path" : "/_sys/types/base",
+         "SuperId" : "i:0",
+         "Type" : "source_type",
+         "Ver" : "1.0"
+      }
+   }
+}

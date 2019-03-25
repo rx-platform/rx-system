@@ -1,0 +1,21 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Constructible" : false,
+         "Items" : null,
+         "Mappers" : null,
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 64,
+         "Name" : "UnassignedAppType",
+         "NodeId" : "i:201326592",
+         "Path" : "/_sys/types/system",
+         "SuperId" : "i:3",
+         "Type" : "application_type",
+         "Ver" : "1.0"
+      }
+   }
+}

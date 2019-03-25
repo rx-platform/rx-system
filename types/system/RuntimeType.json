@@ -1,0 +1,21 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Constructible" : false,
+         "Items" : null,
+         "Mappers" : null,
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 64,
+         "Name" : "RuntimeType",
+         "NodeId" : "i:201326596",
+         "Path" : "/_sys/types/system",
+         "SuperId" : "i:1",
+         "Type" : "object_type",
+         "Ver" : "1.0"
+      }
+   }
+}

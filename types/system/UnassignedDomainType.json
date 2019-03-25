@@ -1,0 +1,21 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Constructible" : false,
+         "Items" : null,
+         "Mappers" : null,
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 64,
+         "Name" : "UnassignedDomainType",
+         "NodeId" : "i:201326602",
+         "Path" : "/_sys/types/system",
+         "SuperId" : "i:2",
+         "Type" : "domain_type",
+         "Ver" : "1.0"
+      }
+   }
+}

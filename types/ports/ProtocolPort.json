@@ -1,0 +1,21 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : true,
+         "Constructible" : false,
+         "Items" : null,
+         "Mappers" : null,
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 32,
+         "Name" : "ProtocolPort",
+         "NodeId" : "i:201326606",
+         "Path" : "/_sys/types/ports",
+         "SuperId" : "i:4",
+         "Type" : "port_type",
+         "Ver" : "1.0"
+      }
+   }
+}

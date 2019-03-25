@@ -1,0 +1,21 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Constructible" : false,
+         "Items" : null,
+         "Mappers" : null,
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 32,
+         "Name" : "ConsolePort",
+         "NodeId" : "i:201326595",
+         "Path" : "/_sys/types/ports",
+         "SuperId" : "i:201326606",
+         "Type" : "port_type",
+         "Ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,39 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : true,
+         "Constructible" : false,
+         "Items" : [
+            {
+               "Name" : "Note",
+               "RO" : false,
+               "Type" : "value",
+               "_Val" : {
+                  "Type" : 13,
+                  "Val" : ""
+               }
+            },
+            {
+               "Name" : "Description",
+               "Type" : "const_value",
+               "_Val" : {
+                  "Type" : 13,
+                  "Val" : ""
+               }
+            }
+         ],
+         "Mappers" : null,
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 32,
+         "Name" : "PortBase",
+         "NodeId" : "i:4",
+         "Path" : "/_sys/types/base",
+         "SuperId" : "i:0",
+         "Type" : "port_type",
+         "Ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "Abstract" : false,
+         "Items" : [
+            {
+               "Name" : "Description",
+               "Type" : "const_value",
+               "_Val" : {
+                  "Type" : 13,
+                  "Val" : ""
+               }
+            }
+         ],
+         "Sealed" : false
+      },
+      "Meta" : {
+         "Attrs" : 32,
+         "Name" : "EventBase",
+         "NodeId" : "i:7",
+         "Path" : "/_sys/types/base",
+         "SuperId" : "i:0",
+         "Type" : "event_type",
+         "Ver" : "1.0"
+      }
+   }
+}

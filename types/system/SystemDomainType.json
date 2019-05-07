@@ -1,21 +1,23 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
-         "Abstract" : false,
-         "Constructible" : false,
-         "Items" : null,
-         "Mappers" : null,
-         "Sealed" : false
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 97,
-         "Name" : "SystemDomainType",
-         "NodeId" : "i:201326593",
-         "Path" : "/_sys/types/system",
-         "SuperId" : "i:2",
-         "Type" : "domain_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.335Z",
+         "modified" : "2019-05-05T08:51:59.335Z",
+         "name" : "SystemDomainType",
+         "nodeId" : "i:201326593",
+         "path" : "/_sys/types/system",
+         "superId" : "i:2",
+         "type" : "domain_type",
+         "ver" : "1.0"
       }
    }
 }

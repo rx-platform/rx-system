@@ -1,39 +1,41 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
-         "Abstract" : true,
-         "Constructible" : false,
-         "Items" : [
+      "def" : {
+         "abstract" : true,
+         "constructable" : false,
+         "items" : [
             {
-               "Name" : "Note",
-               "RO" : false,
-               "Type" : "value",
-               "_Val" : {
-                  "Type" : 13,
-                  "Val" : ""
-               }
+               "_val" : {
+                  "type" : 13,
+                  "val" : ""
+               },
+               "name" : "Description",
+               "type" : "const_value"
             },
             {
-               "Name" : "Description",
-               "Type" : "const_value",
-               "_Val" : {
-                  "Type" : 13,
-                  "Val" : ""
-               }
+               "_val" : {
+                  "type" : 13,
+                  "val" : ""
+               },
+               "name" : "Note",
+               "ro" : false,
+               "type" : "value"
             }
          ],
-         "Mappers" : null,
-         "Sealed" : false
+         "mappers" : null,
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 32,
-         "Name" : "PortBase",
-         "NodeId" : "i:4",
-         "Path" : "/_sys/types/base",
-         "SuperId" : "i:0",
-         "Type" : "port_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.331Z",
+         "modified" : "2019-05-05T08:51:59.331Z",
+         "name" : "PortBase",
+         "nodeId" : "i:4",
+         "path" : "/_sys/types/base",
+         "superId" : "",
+         "type" : "port_type",
+         "ver" : "1.0"
       }
    }
 }

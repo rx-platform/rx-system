@@ -1,28 +1,30 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
-         "Abstract" : false,
-         "Items" : [
+      "def" : {
+         "abstract" : false,
+         "items" : [
             {
-               "Name" : "Description",
-               "Type" : "const_value",
-               "_Val" : {
-                  "Type" : 13,
-                  "Val" : ""
-               }
+               "_val" : {
+                  "type" : 13,
+                  "val" : ""
+               },
+               "name" : "Description",
+               "type" : "const_value"
             }
          ],
-         "Sealed" : false
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 32,
-         "Name" : "SourceBase",
-         "NodeId" : "i:8",
-         "Path" : "/_sys/types/base",
-         "SuperId" : "i:0",
-         "Type" : "source_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.334Z",
+         "modified" : "2019-05-05T08:51:59.334Z",
+         "name" : "SourceBase",
+         "nodeId" : "i:8",
+         "path" : "/_sys/types/base",
+         "superId" : "",
+         "type" : "source_type",
+         "ver" : "1.0"
       }
    }
 }

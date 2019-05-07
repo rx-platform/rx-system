@@ -1,21 +1,23 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
-         "Abstract" : true,
-         "Constructible" : false,
-         "Items" : null,
-         "Mappers" : null,
-         "Sealed" : false
+      "def" : {
+         "abstract" : true,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 32,
-         "Name" : "PhysicalPort",
-         "NodeId" : "i:201326604",
-         "Path" : "/_sys/types/ports",
-         "SuperId" : "i:4",
-         "Type" : "port_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.339Z",
+         "modified" : "2019-05-05T08:51:59.339Z",
+         "name" : "PhysicalPort",
+         "nodeId" : "i:201326604",
+         "path" : "/_sys/types/ports",
+         "superId" : "i:4",
+         "type" : "port_type",
+         "ver" : "1.0"
       }
    }
 }

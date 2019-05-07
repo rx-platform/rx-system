@@ -1,65 +1,67 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
-         "Abstract" : false,
-         "Constructible" : false,
-         "Items" : [
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : [
             {
-               "Name" : "Queue",
-               "RO" : true,
-               "Type" : "value",
-               "_Val" : {
-                  "Type" : 3,
-                  "Val" : 0
-               }
+               "_val" : {
+                  "type" : 1,
+                  "val" : false
+               },
+               "name" : "IOPool",
+               "type" : "const_value"
             },
             {
-               "Name" : "CPUTime",
-               "RO" : true,
-               "Type" : "value",
-               "_Val" : {
-                  "Type" : 14,
-                  "Val" : "19700101T000000.000Z"
-               }
+               "_val" : {
+                  "type" : 3,
+                  "val" : 1
+               },
+               "name" : "Threads",
+               "type" : "const_value"
             },
             {
-               "Name" : "IOPool",
-               "Type" : "const_value",
-               "_Val" : {
-                  "Type" : 1,
-                  "Val" : false
-               }
+               "_val" : {
+                  "type" : 14,
+                  "val" : "1601-01-01T00:00:00.000Z"
+               },
+               "name" : "CPUTime",
+               "ro" : true,
+               "type" : "value"
             },
             {
-               "Name" : "CPU",
-               "RO" : true,
-               "Type" : "value",
-               "_Val" : {
-                  "Type" : 3,
-                  "Val" : 0
-               }
+               "_val" : {
+                  "type" : 3,
+                  "val" : 0
+               },
+               "name" : "Queue",
+               "ro" : true,
+               "type" : "value"
             },
             {
-               "Name" : "Threads",
-               "Type" : "const_value",
-               "_Val" : {
-                  "Type" : 3,
-                  "Val" : 1
-               }
+               "_val" : {
+                  "type" : 3,
+                  "val" : 0
+               },
+               "name" : "CPU",
+               "ro" : true,
+               "type" : "value"
             }
          ],
-         "Mappers" : null,
-         "Sealed" : false
+         "mappers" : null,
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 64,
-         "Name" : "PoolType",
-         "NodeId" : "i:201326599",
-         "Path" : "/_sys/types/system",
-         "SuperId" : "i:1",
-         "Type" : "object_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.337Z",
+         "modified" : "2019-05-05T08:51:59.337Z",
+         "name" : "PoolType",
+         "nodeId" : "i:201326599",
+         "path" : "/_sys/types/system",
+         "superId" : "i:1",
+         "type" : "object_type",
+         "ver" : "1.0"
       }
    }
 }

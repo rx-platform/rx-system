@@ -2,28 +2,30 @@
    "sversion" : "0.9",
    "type" : {
       "Def" : {
-         "Abstract" : false,
-         "Items" : [
+         "abstract" : false,
+         "items" : [
             {
-               "Name" : "Description",
-               "Type" : "const_value",
-               "_Val" : {
-                  "Type" : 13,
-                  "Val" : ""
-               }
+               "_val" : {
+                  "type" : 13,
+                  "val" : ""
+               },
+               "name" : "Description",
+               "type" : "const_value"
             }
          ],
-         "Mappers" : null,
-         "Sealed" : false
+         "mappers" : null,
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 32,
-         "Name" : "StructBase",
-         "NodeId" : "i:5",
-         "Path" : "/_sys/types/base",
-         "SuperId" : "i:0",
-         "Type" : "struct_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.332Z",
+         "modified" : "2019-05-05T08:51:59.332Z",
+         "name" : "StructBase",
+         "nodeId" : "i:5",
+         "path" : "/_sys/types/base",
+         "superId" : "",
+         "type" : "struct_type",
+         "ver" : "1.0"
       }
    }
 }

@@ -1,21 +1,23 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
-         "Abstract" : false,
-         "Constructible" : false,
-         "Items" : null,
-         "Mappers" : null,
-         "Sealed" : false
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "sealed" : false
       },
-      "Meta" : {
-         "Attrs" : 64,
-         "Name" : "UnassignedAppType",
-         "NodeId" : "i:201326592",
-         "Path" : "/_sys/types/system",
-         "SuperId" : "i:3",
-         "Type" : "application_type",
-         "Ver" : "1.0"
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-05T08:51:59.335Z",
+         "modified" : "2019-05-05T08:51:59.335Z",
+         "name" : "UnassignedAppType",
+         "nodeId" : "i:201326592",
+         "path" : "/_sys/types/system",
+         "superId" : "i:3",
+         "type" : "application_type",
+         "ver" : "1.0"
       }
    }
 }

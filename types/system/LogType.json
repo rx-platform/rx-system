@@ -6,12 +6,13 @@
          "constructable" : false,
          "items" : null,
          "mappers" : null,
+         "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-05T08:51:59.338Z",
-         "modified" : "2019-05-05T08:51:59.338Z",
+         "created" : "2019-05-13T03:47:34.861Z",
+         "modified" : "2019-05-13T03:47:34.861Z",
          "name" : "LogType",
          "nodeId" : "i:201326601",
          "path" : "/_sys/types/system",

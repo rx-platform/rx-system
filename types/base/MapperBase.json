@@ -13,12 +13,13 @@
                "type" : "const_value"
             }
          ],
+         "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-05T08:51:59.333Z",
-         "modified" : "2019-05-05T08:51:59.333Z",
+         "created" : "2019-05-13T03:47:34.857Z",
+         "modified" : "2019-05-13T03:47:34.857Z",
          "name" : "MapperBase",
          "nodeId" : "i:9",
          "path" : "/_sys/types/base",

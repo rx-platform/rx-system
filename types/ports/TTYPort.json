@@ -6,12 +6,13 @@
          "constructable" : false,
          "items" : null,
          "mappers" : null,
+         "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-05T08:51:59.339Z",
-         "modified" : "2019-05-05T08:51:59.339Z",
+         "created" : "2019-05-13T03:47:34.861Z",
+         "modified" : "2019-05-13T03:47:34.861Z",
          "name" : "TTYPort",
          "nodeId" : "i:201326608",
          "path" : "/_sys/types/ports",

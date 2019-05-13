@@ -6,12 +6,13 @@
          "constructable" : false,
          "items" : null,
          "mappers" : null,
+         "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-05T08:51:59.337Z",
-         "modified" : "2019-05-05T08:51:59.337Z",
+         "created" : "2019-05-13T03:47:34.860Z",
+         "modified" : "2019-05-13T03:47:34.860Z",
          "name" : "RuntimeType",
          "nodeId" : "i:201326596",
          "path" : "/_sys/types/system",

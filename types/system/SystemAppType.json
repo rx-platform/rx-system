@@ -11,9 +11,9 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-13T03:47:34.860Z",
-         "modified" : "2019-05-13T03:47:34.860Z",
-         "name" : "UnassignedAppType",
+         "created" : "2019-07-11T06:29:13.665Z",
+         "modified" : "2019-07-11T06:29:13.665Z",
+         "name" : "SystemAppType",
          "nodeId" : "i:201326592",
          "path" : "/_sys/types/system",
          "superId" : "i:3",

@@ -5,16 +5,7 @@
          "abstract" : false,
          "events" : null,
          "filters" : null,
-         "items" : [
-            {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
-               "name" : "Description",
-               "type" : "const_value"
-            }
-         ],
+         "items" : null,
          "mappers" : null,
          "overrides" : null,
          "sealed" : false,
@@ -22,8 +13,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-13T03:47:34.857Z",
-         "modified" : "2019-05-13T03:47:34.857Z",
+         "created" : "2019-07-11T06:29:13.661Z",
+         "modified" : "2019-07-11T06:29:13.661Z",
          "name" : "VariableBase",
          "nodeId" : "i:6",
          "path" : "/_sys/types/base",

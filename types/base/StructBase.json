@@ -3,24 +3,15 @@
    "type" : {
       "Def" : {
          "abstract" : false,
-         "items" : [
-            {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
-               "name" : "Description",
-               "type" : "const_value"
-            }
-         ],
+         "items" : null,
          "mappers" : null,
          "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-13T03:47:34.856Z",
-         "modified" : "2019-05-13T03:47:34.856Z",
+         "created" : "2019-07-11T06:29:13.661Z",
+         "modified" : "2019-07-11T06:29:13.661Z",
          "name" : "StructBase",
          "nodeId" : "i:5",
          "path" : "/_sys/types/base",

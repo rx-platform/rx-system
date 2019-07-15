@@ -1,0 +1,42 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "_val" : {
+                  "type" : 8,
+                  "val" : 0
+               },
+               "name" : "RxBytes",
+               "ro" : true,
+               "type" : "value"
+            },
+            {
+               "_val" : {
+                  "type" : 8,
+                  "val" : 0
+               },
+               "name" : "TxBytes",
+               "ro" : true,
+               "type" : "value"
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-07-11T06:29:13.665Z",
+         "modified" : "2019-07-11T06:29:13.665Z",
+         "name" : "PhysicalPortStatusData",
+         "nodeId" : "i:201326624",
+         "path" : "/_sys/types/support",
+         "superId" : "i:201326617",
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -4,15 +4,21 @@
       "def" : {
          "abstract" : true,
          "constructable" : false,
-         "items" : null,
+         "items" : [
+            {
+               "id" : "i:201326617",
+               "name" : "Status",
+               "type" : "struct"
+            }
+         ],
          "mappers" : null,
          "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-13T03:47:34.863Z",
-         "modified" : "2019-05-13T03:47:34.863Z",
+         "created" : "2019-07-11T06:29:13.669Z",
+         "modified" : "2019-07-11T06:29:13.669Z",
          "name" : "ProtocolPort",
          "nodeId" : "i:201326606",
          "path" : "/_sys/types/ports",

@@ -3,23 +3,14 @@
    "type" : {
       "def" : {
          "abstract" : false,
-         "items" : [
-            {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
-               "name" : "Description",
-               "type" : "const_value"
-            }
-         ],
+         "items" : null,
          "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-13T03:47:34.858Z",
-         "modified" : "2019-05-13T03:47:34.858Z",
+         "created" : "2019-07-11T06:29:13.662Z",
+         "modified" : "2019-07-11T06:29:13.662Z",
          "name" : "FilterBase",
          "nodeId" : "i:10",
          "path" : "/_sys/types/base",

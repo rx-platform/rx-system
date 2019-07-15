@@ -10,26 +10,14 @@
                   "type" : 6,
                   "val" : -1
                },
-               "name" : "Processor",
+               "name" : "CPU",
                "ro" : true,
                "type" : "value"
             },
             {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
-               "name" : "Description",
-               "type" : "const_value"
-            },
-            {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
-               "name" : "Note",
-               "ro" : false,
-               "type" : "value"
+               "id" : "i:13",
+               "name" : "Object",
+               "type" : "struct"
             }
          ],
          "mappers" : null,
@@ -38,8 +26,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-05-13T03:47:34.856Z",
-         "modified" : "2019-05-13T03:47:34.856Z",
+         "created" : "2019-07-11T06:29:13.664Z",
+         "modified" : "2019-07-11T06:29:13.664Z",
          "name" : "DomainBase",
          "nodeId" : "i:2",
          "path" : "/_sys/types/base",

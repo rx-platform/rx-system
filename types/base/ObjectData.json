@@ -1,0 +1,50 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "_val" : {
+                  "type" : 13,
+                  "val" : ""
+               },
+               "name" : "Description",
+               "type" : "const_value"
+            },
+            {
+               "_val" : {
+                  "type" : 11,
+                  "val" : 0
+               },
+               "name" : "LastScanTime",
+               "ro" : true,
+               "type" : "value"
+            },
+            {
+               "_val" : {
+                  "type" : 13,
+                  "val" : ""
+               },
+               "name" : "Note",
+               "ro" : false,
+               "type" : "value"
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-07-11T06:29:13.663Z",
+         "modified" : "2019-07-11T06:29:13.663Z",
+         "name" : "ObjectData",
+         "nodeId" : "i:13",
+         "path" : "/_sys/types/base",
+         "superId" : "i:5",
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

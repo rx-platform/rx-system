@@ -1,0 +1,30 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "processor" : 0
+         },
+         "programs" : null,
+         "values" : {
+            "CPU" : 0,
+            "Object" : {
+               "Description" : "",
+               "LastScanTime" : 0,
+               "Note" : ""
+            }
+         }
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-07-11T06:29:13.670Z",
+         "modified" : "2019-07-11T06:29:13.670Z",
+         "name" : "SystemApp",
+         "nodeId" : "i:11",
+         "path" : "/_sys/objects/system",
+         "superId" : "i:201326592",
+         "type" : "application",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "0.9"
+}

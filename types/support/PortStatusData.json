@@ -1,0 +1,51 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "Def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "_val" : {
+                  "type" : 8,
+                  "val" : 0
+               },
+               "name" : "RxPackets",
+               "ro" : true,
+               "type" : "value"
+            },
+            {
+               "_val" : {
+                  "type" : 1,
+                  "val" : false
+               },
+               "name" : "Connected",
+               "ro" : true,
+               "type" : "value"
+            },
+            {
+               "_val" : {
+                  "type" : 8,
+                  "val" : 0
+               },
+               "name" : "TxPackets",
+               "ro" : true,
+               "type" : "value"
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-07-11T06:29:13.665Z",
+         "modified" : "2019-07-11T06:29:13.665Z",
+         "name" : "PortStatusData",
+         "nodeId" : "i:201326617",
+         "path" : "/_sys/types/support",
+         "superId" : "i:5",
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

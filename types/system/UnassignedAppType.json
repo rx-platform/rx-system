@@ -3,17 +3,18 @@
    "type" : {
       "def" : {
          "abstract" : false,
-         "constructible" : false,
+         "constructable" : false,
          "items" : null,
          "mappers" : null,
+         "overrides" : null,
          "sealed" : false
       },
       "meta" : {
-         "attrs" : 64,
-         "created" : "2019-04-22T11:00:15.646Z",
-         "modified" : "2019-04-22T11:00:15.646Z",
+         "attrs" : 97,
+         "created" : "2019-07-11T06:29:13.665Z",
+         "modified" : "2019-07-11T06:29:13.665Z",
          "name" : "UnassignedAppType",
-         "nodeId" : "i:201326592",
+         "nodeId" : "i:201326603",
          "path" : "/_sys/types/system",
          "superId" : "i:3",
          "type" : "application_type",

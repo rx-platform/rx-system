@@ -5,30 +5,36 @@
          "abstract" : false,
          "items" : [
             {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
                "name" : "Description",
-               "type" : "const_value"
+               "type" : "const_value",
+               "value" : {
+                  "_val" : {
+                     "type" : 13,
+                     "val" : ""
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 11,
-                  "val" : 0
-               },
                "name" : "LastScanTime",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 11,
+                     "val" : 0
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
                "name" : "Note",
                "ro" : false,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 13,
+                     "val" : ""
+                  }
+               }
             }
          ],
          "mappers" : null,
@@ -37,8 +43,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-07-11T06:29:13.663Z",
-         "modified" : "2019-07-11T06:29:13.663Z",
+         "created" : "2019-08-12T06:18:19.425Z",
+         "modified" : "2019-08-12T06:18:19.425Z",
          "name" : "ObjectData",
          "nodeId" : "i:13",
          "path" : "/_sys/types/base",

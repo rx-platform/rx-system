@@ -6,13 +6,15 @@
          "constructable" : false,
          "items" : [
             {
-               "_val" : {
-                  "type" : 6,
-                  "val" : -1
-               },
                "name" : "CPU",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 6,
+                     "val" : -1
+                  }
+               }
             },
             {
                "id" : "i:13",
@@ -26,8 +28,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-07-11T06:29:13.663Z",
-         "modified" : "2019-07-11T06:29:13.663Z",
+         "created" : "2019-08-12T06:18:19.425Z",
+         "modified" : "2019-08-12T06:18:19.425Z",
          "name" : "ApplicationBase",
          "nodeId" : "i:3",
          "path" : "/_sys/types/base",

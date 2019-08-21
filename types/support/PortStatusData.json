@@ -5,31 +5,37 @@
          "abstract" : false,
          "items" : [
             {
-               "_val" : {
-                  "type" : 8,
-                  "val" : 0
-               },
                "name" : "RxPackets",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 8,
+                     "val" : 0
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 1,
-                  "val" : false
-               },
                "name" : "Connected",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 1,
+                     "val" : false
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 8,
-                  "val" : 0
-               },
                "name" : "TxPackets",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 8,
+                     "val" : 0
+                  }
+               }
             }
          ],
          "mappers" : null,
@@ -38,8 +44,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-07-11T06:29:13.665Z",
-         "modified" : "2019-07-11T06:29:13.665Z",
+         "created" : "2019-08-12T06:18:19.427Z",
+         "modified" : "2019-08-12T06:18:19.427Z",
          "name" : "PortStatusData",
          "nodeId" : "i:201326617",
          "path" : "/_sys/types/support",

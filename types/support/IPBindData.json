@@ -5,22 +5,26 @@
          "abstract" : false,
          "items" : [
             {
-               "_val" : {
-                  "type" : 13,
-                  "val" : ""
-               },
                "name" : "IPAddress",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 13,
+                     "val" : ""
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 5,
-                  "val" : 0
-               },
                "name" : "IPPort",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 5,
+                     "val" : 0
+                  }
+               }
             }
          ],
          "mappers" : null,
@@ -29,8 +33,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-07-11T06:29:13.664Z",
-         "modified" : "2019-07-11T06:29:13.664Z",
+         "created" : "2019-08-12T06:18:19.427Z",
+         "modified" : "2019-08-12T06:18:19.427Z",
          "name" : "IPBindData",
          "nodeId" : "i:201326625",
          "path" : "/_sys/types/support",

@@ -6,47 +6,57 @@
          "constructable" : false,
          "items" : [
             {
-               "_val" : {
-                  "type" : 1,
-                  "val" : false
-               },
                "name" : "IOPool",
-               "type" : "const_value"
+               "type" : "const_value",
+               "value" : {
+                  "_val" : {
+                     "type" : 1,
+                     "val" : false
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 3,
-                  "val" : 1
-               },
                "name" : "Threads",
-               "type" : "const_value"
+               "type" : "const_value",
+               "value" : {
+                  "_val" : {
+                     "type" : 3,
+                     "val" : 1
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 14,
-                  "val" : "1601-01-01T00:00:00.000Z"
-               },
                "name" : "CPUTime",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 14,
+                     "val" : "1601-01-01T00:00:00.000Z"
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 3,
-                  "val" : 0
-               },
                "name" : "Queue",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 3,
+                     "val" : 0
+                  }
+               }
             },
             {
-               "_val" : {
-                  "type" : 3,
-                  "val" : 0
-               },
                "name" : "CPU",
                "ro" : true,
-               "type" : "value"
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 3,
+                     "val" : 0
+                  }
+               }
             }
          ],
          "mappers" : null,
@@ -55,8 +65,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-07-11T06:29:13.666Z",
-         "modified" : "2019-07-11T06:29:13.666Z",
+         "created" : "2019-08-12T06:18:19.429Z",
+         "modified" : "2019-08-12T06:18:19.429Z",
          "name" : "PoolType",
          "nodeId" : "i:201326599",
          "path" : "/_sys/types/system",

@@ -1,7 +1,7 @@
 {
    "sversion" : "0.9",
    "type" : {
-      "Def" : {
+      "def" : {
          "abstract" : false,
          "items" : null,
          "mappers" : null,
@@ -10,8 +10,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-08-12T06:18:19.422Z",
-         "modified" : "2019-08-12T06:18:19.422Z",
+         "created" : "2019-10-16T07:19:46.827Z",
+         "modified" : "2019-10-16T07:19:46.827Z",
          "name" : "StructBase",
          "nodeId" : "i:5",
          "path" : "/_sys/types/base",

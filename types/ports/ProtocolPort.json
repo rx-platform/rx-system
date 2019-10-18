@@ -6,8 +6,11 @@
          "constructable" : false,
          "items" : [
             {
-               "id" : "i:201326617",
                "name" : "Status",
+               "target" : {
+                  "id" : "i:201326617",
+                  "is_id" : true
+               },
                "type" : "struct"
             }
          ],
@@ -17,8 +20,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-08-12T06:18:19.432Z",
-         "modified" : "2019-08-12T06:18:19.432Z",
+         "created" : "2019-10-16T07:19:46.836Z",
+         "modified" : "2019-10-16T07:19:46.836Z",
          "name" : "ProtocolPort",
          "nodeId" : "i:201326606",
          "path" : "/_sys/types/ports",

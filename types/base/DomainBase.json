@@ -17,8 +17,11 @@
                }
             },
             {
-               "id" : "i:13",
                "name" : "Object",
+               "target" : {
+                  "id" : "i:13",
+                  "is_id" : true
+               },
                "type" : "struct"
             }
          ],
@@ -28,8 +31,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-08-12T06:18:19.426Z",
-         "modified" : "2019-08-12T06:18:19.426Z",
+         "created" : "2019-10-16T07:19:46.830Z",
+         "modified" : "2019-10-16T07:19:46.830Z",
          "name" : "DomainBase",
          "nodeId" : "i:2",
          "path" : "/_sys/types/base",

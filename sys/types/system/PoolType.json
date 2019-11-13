@@ -1,0 +1,78 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : [
+            {
+               "name" : "IOPool",
+               "type" : "const_value",
+               "value" : {
+                  "_val" : {
+                     "type" : 1,
+                     "val" : false
+                  }
+               }
+            },
+            {
+               "name" : "Threads",
+               "type" : "const_value",
+               "value" : {
+                  "_val" : {
+                     "type" : 3,
+                     "val" : 1
+                  }
+               }
+            },
+            {
+               "name" : "CPUTime",
+               "ro" : true,
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 14,
+                     "val" : "1601-01-01T00:00:00.000Z"
+                  }
+               }
+            },
+            {
+               "name" : "Queue",
+               "ro" : true,
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 3,
+                     "val" : 0
+                  }
+               }
+            },
+            {
+               "name" : "CPU",
+               "ro" : true,
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 3,
+                     "val" : 0
+                  }
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-11-13T16:09:20.887Z",
+         "modified" : "2019-11-13T16:09:20.887Z",
+         "name" : "PoolType",
+         "nodeId" : "i:201326599",
+         "path" : "/sys/types/system",
+         "superId" : "i:1",
+         "type" : "object_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,24 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-11T15:01:03.408Z",
+         "modified" : "2019-08-12T06:18:19.440Z",
+         "name" : "InfoControlModule",
+         "nodeId" : "g:5C48273B-B8D7-4EAC-9256-7B20856C3F36",
+         "path" : "/sys/plugins/info_control",
+         "superId" : "i:201326606",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

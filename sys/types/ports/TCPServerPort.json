@@ -1,0 +1,24 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-11-13T16:09:20.890Z",
+         "modified" : "2019-11-13T16:09:20.890Z",
+         "name" : "TCPServerPort",
+         "nodeId" : "i:201326612",
+         "path" : "/sys/types/ports",
+         "superId" : "i:201326610",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

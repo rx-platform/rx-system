@@ -1,0 +1,24 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-11-13T16:09:20.886Z",
+         "modified" : "2019-11-13T16:09:20.886Z",
+         "name" : "SystemDomainType",
+         "nodeId" : "i:201326593",
+         "path" : "/sys/types/system",
+         "superId" : "i:2",
+         "type" : "domain_type",
+         "ver" : "1.0"
+      }
+   }
+}

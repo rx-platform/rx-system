@@ -1,0 +1,26 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "events" : null,
+         "filters" : null,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-11-13T16:09:20.881Z",
+         "modified" : "2019-11-13T16:09:20.881Z",
+         "name" : "VariableBase",
+         "nodeId" : "i:6",
+         "path" : "/sys/types/base",
+         "superId" : "",
+         "type" : "variable_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,24 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-05-11T15:01:03.408Z",
+         "modified" : "2019-11-13T16:09:21.031Z",
+         "name" : "ModbusMasterConnection",
+         "nodeId" : "g:ac064be0-52b6-4d41-b607-db0f8987207b",
+         "path" : "/sys/plugins/modbus/master",
+         "superId" : "i:201326606",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

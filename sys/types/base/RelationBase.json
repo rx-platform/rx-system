@@ -1,0 +1,23 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "hierarchical" : false,
+         "inverse" : {
+            "id" : "",
+            "is_id" : true
+         }
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-11-16T11:26:04.094Z",
+         "modified" : "2019-11-16T11:26:04.094Z",
+         "name" : "RelationBase",
+         "nodeId" : "i:14",
+         "path" : "/sys/types/base",
+         "superId" : "",
+         "type" : "relation_type",
+         "ver" : "1.0"
+      }
+   }
+}

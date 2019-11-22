@@ -7,12 +7,14 @@
          "items" : null,
          "mappers" : null,
          "overrides" : null,
+         "programs" : null,
+         "relations" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2019-11-13T16:09:21.050Z",
+         "modified" : "2019-11-16T11:26:04.179Z",
          "name" : "OpcUaTransport",
          "nodeId" : "g:54175dc7-62f2-4dea-a129-3bbb996f96a2",
          "path" : "/sys/plugins/opcua/transport",

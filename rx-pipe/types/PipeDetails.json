@@ -5,22 +5,22 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "IPAddress",
+               "name" : "InPipe",
                "type" : "const_value",
                "value" : {
                   "_val" : {
-                     "type" : 13,
-                     "val" : ""
+                     "type" : 8,
+                     "val" : -1
                   }
                }
             },
             {
-               "name" : "IPPort",
+               "name" : "outPipe",
                "type" : "const_value",
                "value" : {
                   "_val" : {
-                     "type" : 5,
-                     "val" : 0
+                     "type" : 8,
+                     "val" : -1
                   }
                }
             }
@@ -30,12 +30,12 @@
          "sealed" : false
       },
       "meta" : {
-         "attrs" : 97,
-         "created" : "2019-11-16T11:26:04.100Z",
-         "modified" : "2019-11-16T11:26:04.100Z",
-         "name" : "IPBindData",
-         "nodeId" : "i:201326625",
-         "path" : "/sys/types/support",
+         "attrs" : 15,
+         "created" : "2019-11-13T23:48:26.315Z",
+         "modified" : "2019-11-13T23:50:06.806Z",
+         "name" : "PipeDetails",
+         "nodeId" : "999:g:cfd059b7-2809-4583-9ea0-cb33b2c0b6cf",
+         "path" : "/sys/host/types",
          "superId" : "i:5",
          "type" : "struct_type",
          "ver" : "1.0"

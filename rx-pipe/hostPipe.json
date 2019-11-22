@@ -1,0 +1,38 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : "i:11"
+         },
+         "programs" : null,
+         "values" : {
+            "InPipe" : -1,
+            "Object" : {
+               "Description" : "",
+               "LastScanTime" : 0,
+               "Note" : ""
+            },
+            "OutPipe" : -1,
+            "Status" : {
+               "Connected" : false,
+               "RxBytes" : 0,
+               "RxPackets" : 0,
+               "TxBytes" : 0,
+               "TxPackets" : 0
+            }
+         }
+      },
+      "meta" : {
+         "attrs" : 31,
+         "created" : "2019-11-13T21:01:37.671Z",
+         "modified" : "2019-11-13T21:01:49.913Z",
+         "name" : "hostPipe",
+         "nodeId" : "999:g:90234cfa-0857-405c-8d9b-d9ea30dcd6eb",
+         "path" : "/sys/host",
+         "superId" : "2:i:1",
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "0.9"
+}

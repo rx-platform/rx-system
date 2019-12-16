@@ -4,20 +4,13 @@
          "instance" : {
             "processor" : 1
          },
-         "programs" : null,
-         "values" : {
-            "CPU" : 1,
-            "Object" : {
-               "Description" : "",
-               "LastScanTime" : 0,
-               "Note" : ""
-            }
-         }
+         "overrides" : null,
+         "programs" : null
       },
       "meta" : {
          "attrs" : 31,
-         "created" : "2019-11-16T11:26:04.105Z",
-         "modified" : "2019-11-16T11:26:04.106Z",
+         "created" : "2019-12-16T10:00:27.802Z",
+         "modified" : "2019-12-16T10:00:27.822Z",
          "name" : "SystemApp",
          "nodeId" : "i:11",
          "path" : "/sys/objects/system",

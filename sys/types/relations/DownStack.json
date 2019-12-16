@@ -10,12 +10,12 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-16T10:00:27.798Z",
-         "modified" : "2019-12-16T10:00:27.798Z",
-         "name" : "RelationBase",
-         "nodeId" : "i:14",
-         "path" : "/sys/types/base",
-         "superId" : "",
+         "created" : "2019-12-16T10:00:27.802Z",
+         "modified" : "2019-12-16T10:00:27.802Z",
+         "name" : "DownStack",
+         "nodeId" : "i:17",
+         "path" : "/sys/types/relations",
+         "superId" : "i:15",
          "type" : "relation_type",
          "ver" : "1.0"
       }

@@ -22,8 +22,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-11-16T11:26:04.102Z",
-         "modified" : "2019-11-16T11:26:04.102Z",
+         "created" : "2019-12-16T10:00:27.800Z",
+         "modified" : "2019-12-16T10:00:27.800Z",
          "name" : "PhysicalPort",
          "nodeId" : "i:201326604",
          "path" : "/sys/types/ports",

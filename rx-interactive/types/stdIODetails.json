@@ -5,22 +5,12 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "InPipe",
+               "name" : "supportsANSI",
                "type" : "const_value",
                "value" : {
                   "_val" : {
-                     "type" : 8,
-                     "val" : -1
-                  }
-               }
-            },
-            {
-               "name" : "OutPipe",
-               "type" : "const_value",
-               "value" : {
-                  "_val" : {
-                     "type" : 8,
-                     "val" : -1
+                     "type" : 1,
+                     "val" : false
                   }
                }
             }
@@ -32,13 +22,13 @@
       "meta" : {
          "attrs" : 15,
          "created" : "2019-11-13T23:48:26.315Z",
-         "modified" : "2019-12-15T14:48:52.941Z",
-         "name" : "PipeDetails",
-         "nodeId" : "999:g:cfd059b7-2809-4583-9ea0-cb33b2c0b6cf",
+         "modified" : "2019-12-16T10:00:27.926Z",
+         "name" : "stdIODetails",
+         "nodeId" : "999:g:63eea0a1-edcc-438b-8a24-db6bdb136620",
          "path" : "/sys/host/types",
          "superId" : "i:5",
          "type" : "struct_type",
-         "ver" : "1.2"
+         "ver" : "1.0"
       }
    }
 }

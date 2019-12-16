@@ -13,8 +13,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-11-16T11:26:04.103Z",
-         "modified" : "2019-11-16T11:26:04.103Z",
+         "created" : "2019-12-16T10:00:27.801Z",
+         "modified" : "2019-12-16T10:00:27.801Z",
          "name" : "EthernetPort",
          "nodeId" : "i:201326614",
          "path" : "/sys/types/ports",

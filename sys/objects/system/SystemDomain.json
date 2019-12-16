@@ -6,20 +6,13 @@
             "objects" : null,
             "processor" : 1
          },
-         "programs" : null,
-         "values" : {
-            "CPU" : 1,
-            "Object" : {
-               "Description" : "",
-               "LastScanTime" : 0,
-               "Note" : ""
-            }
-         }
+         "overrides" : null,
+         "programs" : null
       },
       "meta" : {
          "attrs" : 31,
-         "created" : "2019-11-16T11:26:04.171Z",
-         "modified" : "2019-11-16T11:26:04.171Z",
+         "created" : "2019-12-16T10:00:27.888Z",
+         "modified" : "2019-12-16T10:00:27.889Z",
          "name" : "SystemDomain",
          "nodeId" : "i:12",
          "path" : "/sys/objects/system",

@@ -14,7 +14,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2019-11-16T11:26:04.178Z",
+         "modified" : "2019-12-16T10:00:27.971Z",
          "name" : "OpcUaServerConnection",
          "nodeId" : "g:0d698b7e-f9d9-46a7-a576-8f6dc233f122",
          "path" : "/sys/plugins/opcua/server",

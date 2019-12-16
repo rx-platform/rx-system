@@ -6,9 +6,9 @@
          "constructable" : false,
          "items" : [
             {
-               "name" : "Pipe",
+               "name" : "IODetails",
                "target" : {
-                  "id" : "999:g:cfd059b7-2809-4583-9ea0-cb33b2c0b6cf",
+                  "id" : "999:g:63eea0a1-edcc-438b-8a24-db6bdb136620",
                   "is_id" : true
                },
                "type" : "struct"
@@ -23,9 +23,9 @@
       "meta" : {
          "attrs" : 15,
          "created" : "2019-11-10T21:05:44.547Z",
-         "modified" : "2019-12-04T08:35:53.389Z",
-         "name" : "LocalPipePort",
-         "nodeId" : "2:i:1",
+         "modified" : "2019-12-16T10:00:27.929Z",
+         "name" : "stdIOPort",
+         "nodeId" : "3:i:1",
          "path" : "/sys/host/types",
          "superId" : "i:201326604",
          "type" : "port_type",

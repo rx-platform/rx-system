@@ -8,8 +8,7 @@
             {
                "name" : "Object",
                "target" : {
-                  "id" : "i:13",
-                  "is_id" : true
+                  "id" : "i:13"
                },
                "type" : "struct"
             }
@@ -22,8 +21,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-16T10:00:27.797Z",
-         "modified" : "2019-12-16T10:00:27.798Z",
+         "created" : "2019-12-26T12:09:54.124Z",
+         "modified" : "2019-12-26T12:09:54.124Z",
          "name" : "PortBase",
          "nodeId" : "i:4",
          "path" : "/sys/types/base",

@@ -1,15 +1,10 @@
 {
    "object" : {
       "def" : {
-	  "instance" : {
+         "instance" : {
             "app" : "i:11",
-            "down_port" : {
-               "id" : "",
-               "is_id" : true
-            },
-            "up_port" : {
-               "id" : "",
-               "is_id" : true
+            "next_up" : {
+               "id" : "999:g:20f3dad9-e750-4462-a873-0bc9c2cde4af"
             }
          },
          "overrides" : null,
@@ -18,13 +13,13 @@
       "meta" : {
          "attrs" : 31,
          "created" : "2019-11-13T21:01:37.671Z",
-         "modified" : "2019-11-13T21:01:49.913Z",
+         "modified" : "2019-12-25T14:28:17.830Z",
          "name" : "hostPipe",
          "nodeId" : "999:g:90234cfa-0857-405c-8d9b-d9ea30dcd6eb",
          "path" : "/sys/host",
          "superId" : "2:i:1",
          "type" : "port",
-         "ver" : "1.0"
+         "ver" : "1.1"
       }
    },
    "sversion" : "0.9"

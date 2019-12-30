@@ -15,7 +15,14 @@
             }
          ],
          "mappers" : null,
-         "overrides" : null,
+         "overrides" : {
+            "Object" : {
+               "Description" : "Ovo je neki opis port klase!!!"
+            },
+            "Pipe" : {
+               "InPipe" : 75
+            }
+         },
          "programs" : null,
          "relations" : null,
          "sealed" : true
@@ -23,13 +30,13 @@
       "meta" : {
          "attrs" : 15,
          "created" : "2019-11-10T21:05:44.547Z",
-         "modified" : "2019-12-04T08:35:53.389Z",
+         "modified" : "2019-12-16T21:49:18.012Z",
          "name" : "LocalPipePort",
          "nodeId" : "2:i:1",
          "path" : "/sys/host/types",
          "superId" : "i:201326604",
          "type" : "port_type",
-         "ver" : "1.2"
+         "ver" : "1.5"
       }
    }
 }

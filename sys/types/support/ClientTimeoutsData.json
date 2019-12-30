@@ -1,0 +1,35 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "ConnectTimeout",
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "_val" : {
+                     "type" : 7,
+                     "val" : 5000
+                  }
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2019-12-26T12:09:54.126Z",
+         "modified" : "2019-12-26T12:09:54.126Z",
+         "name" : "ClientTimeoutsData",
+         "nodeId" : "i:201326629",
+         "path" : "/sys/types/support",
+         "superId" : "i:201326628",
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

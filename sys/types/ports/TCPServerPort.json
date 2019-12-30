@@ -4,7 +4,22 @@
       "def" : {
          "abstract" : false,
          "constructable" : false,
-         "items" : null,
+         "items" : [
+            {
+               "name" : "Bind",
+               "target" : {
+                  "id" : "i:201326625"
+               },
+               "type" : "struct"
+            },
+            {
+               "name" : "Timeouts",
+               "target" : {
+                  "id" : "i:201326628"
+               },
+               "type" : "struct"
+            }
+         ],
          "mappers" : null,
          "overrides" : null,
          "programs" : null,
@@ -13,12 +28,12 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-16T10:00:27.801Z",
-         "modified" : "2019-12-16T10:00:27.801Z",
+         "created" : "2019-12-26T12:09:54.129Z",
+         "modified" : "2019-12-26T12:09:54.129Z",
          "name" : "TCPServerPort",
          "nodeId" : "i:201326612",
          "path" : "/sys/types/ports",
-         "superId" : "i:201326610",
+         "superId" : "i:201326604",
          "type" : "port_type",
          "ver" : "1.0"
       }

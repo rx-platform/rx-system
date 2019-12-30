@@ -3,15 +3,12 @@
    "type" : {
       "def" : {
          "hierarchical" : false,
-         "inverse" : {
-            "id" : "",
-            "is_id" : true
-         }
+         "inverse" : null
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-16T10:00:27.798Z",
-         "modified" : "2019-12-16T10:00:27.798Z",
+         "created" : "2019-12-26T12:09:54.125Z",
+         "modified" : "2019-12-26T12:09:54.125Z",
          "name" : "RelationBase",
          "nodeId" : "i:14",
          "path" : "/sys/types/base",

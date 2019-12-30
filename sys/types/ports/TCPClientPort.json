@@ -13,12 +13,12 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-16T10:00:27.801Z",
-         "modified" : "2019-12-16T10:00:27.801Z",
+         "created" : "2019-12-26T12:09:54.129Z",
+         "modified" : "2019-12-26T12:09:54.129Z",
          "name" : "TCPClientPort",
          "nodeId" : "i:201326613",
          "path" : "/sys/types/ports",
-         "superId" : "i:201326610",
+         "superId" : "i:201326604",
          "type" : "port_type",
          "ver" : "1.0"
       }

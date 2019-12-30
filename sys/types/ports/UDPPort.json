@@ -8,8 +8,7 @@
             {
                "name" : "Bind",
                "target" : {
-                  "id" : "i:201326625",
-                  "is_id" : true
+                  "id" : "i:201326625"
                },
                "type" : "struct"
             }
@@ -22,8 +21,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-16T10:00:27.801Z",
-         "modified" : "2019-12-16T10:00:27.801Z",
+         "created" : "2019-12-26T12:09:54.129Z",
+         "modified" : "2019-12-26T12:09:54.129Z",
          "name" : "UDPPort",
          "nodeId" : "i:201326609",
          "path" : "/sys/types/ports",

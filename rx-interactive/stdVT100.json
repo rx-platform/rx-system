@@ -3,14 +3,7 @@
       "def" : {
          "instance" : {
             "app" : "i:11",
-            "down_port" : {
-               "id" : "",
-               "is_id" : true
-            },
-            "up_port" : {
-               "id" : "",
-               "is_id" : true
-            }
+            "next_up" : null
          },
          "overrides" : null,
          "programs" : null
@@ -18,7 +11,7 @@
       "meta" : {
          "attrs" : 31,
          "created" : "2019-12-04T11:39:16.512Z",
-         "modified" : "2019-12-16T10:00:27.959Z",
+         "modified" : "2019-12-26T12:09:54.175Z",
          "name" : "stdVT100",
          "nodeId" : "3:i:2",
          "path" : "/sys/host",

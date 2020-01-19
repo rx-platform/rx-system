@@ -7,8 +7,7 @@
          "items" : [
             {
                "name" : "CPU",
-               "ro" : true,
-               "type" : "value",
+               "type" : "const_value",
                "value" : {
                   "_val" : {
                      "type" : 6,
@@ -32,8 +31,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2019-12-26T12:09:54.124Z",
-         "modified" : "2019-12-26T12:09:54.124Z",
+         "created" : "2020-01-15T10:00:47.823Z",
+         "modified" : "2020-01-15T10:00:47.823Z",
          "name" : "DomainBase",
          "nodeId" : "i:2",
          "path" : "/sys/types/base",

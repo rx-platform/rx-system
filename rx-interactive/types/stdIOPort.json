@@ -22,7 +22,7 @@
       "meta" : {
          "attrs" : 15,
          "created" : "2019-11-10T21:05:44.547Z",
-         "modified" : "2019-12-26T12:09:54.171Z",
+         "modified" : "2020-01-15T10:00:47.837Z",
          "name" : "stdIOPort",
          "nodeId" : "3:i:1",
          "path" : "/sys/host/types",

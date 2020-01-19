@@ -13,13 +13,13 @@
       "meta" : {
          "attrs" : 31,
          "created" : "2019-11-13T21:01:37.671Z",
-         "modified" : "2019-12-25T14:28:17.830Z",
+         "modified" : "2020-01-19T12:01:54.268Z",
          "name" : "hostPipe",
          "nodeId" : "999:g:90234cfa-0857-405c-8d9b-d9ea30dcd6eb",
          "path" : "/sys/host",
          "superId" : "2:i:1",
          "type" : "port",
-         "ver" : "1.1"
+         "ver" : "1.2"
       }
    },
    "sversion" : "0.9"

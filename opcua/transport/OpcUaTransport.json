@@ -14,7 +14,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2019-12-26T12:09:54.181Z",
+         "modified" : "2020-01-15T10:00:47.849Z",
          "name" : "OpcUaTransport",
          "nodeId" : "g:54175dc7-62f2-4dea-a129-3bbb996f96a2",
          "path" : "/sys/plugins/opcua/transport",

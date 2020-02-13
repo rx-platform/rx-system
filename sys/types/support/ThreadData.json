@@ -5,16 +5,26 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "IPAddress",
-               "type" : "const_value",
+               "name" : "MaxQueue",
+               "ro" : true,
+               "type" : "value",
                "value" : {
-                  "type" : 13,
-                  "val" : ""
+                  "type" : 5,
+                  "val" : 0
                }
             },
             {
-               "name" : "IPPort",
+               "name" : "ThreadId",
                "type" : "const_value",
+               "value" : {
+                  "type" : 7,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "Queue",
+               "ro" : true,
+               "type" : "value",
                "value" : {
                   "type" : 5,
                   "val" : 0
@@ -27,10 +37,10 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-02-12T23:47:37.736Z",
-         "modified" : "2020-02-12T23:47:37.736Z",
-         "name" : "IPBindData",
-         "nodeId" : "i:201326625",
+         "created" : "2020-02-12T23:47:37.737Z",
+         "modified" : "2020-02-12T23:47:37.737Z",
+         "name" : "ThreadData",
+         "nodeId" : "i:201326640",
          "path" : "/sys/types/support",
          "superId" : "i:5",
          "type" : "struct_type",

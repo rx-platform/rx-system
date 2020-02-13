@@ -4,7 +4,15 @@
       "def" : {
          "abstract" : false,
          "constructable" : false,
-         "items" : null,
+         "items" : [
+            {
+               "name" : "Pool",
+               "target" : {
+                  "id" : "i:201326630"
+               },
+               "type" : "struct"
+            }
+         ],
          "mappers" : null,
          "overrides" : null,
          "programs" : null,
@@ -13,10 +21,10 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-02-12T23:47:37.740Z",
-         "modified" : "2020-02-12T23:47:37.740Z",
-         "name" : "IoManagerType",
-         "nodeId" : "i:201326597",
+         "created" : "2020-02-12T23:47:37.739Z",
+         "modified" : "2020-02-12T23:47:37.739Z",
+         "name" : "IoPoolType",
+         "nodeId" : "i:201326599",
          "path" : "/sys/types/system",
          "superId" : "i:1",
          "type" : "object_type",

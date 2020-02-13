@@ -1,0 +1,23 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "domain" : "i:12"
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 31,
+         "created" : "2020-02-12T23:47:37.747Z",
+         "modified" : "2020-02-12T23:47:37.747Z",
+         "name" : "Runtime",
+         "nodeId" : "i:134217730",
+         "path" : "/sys/runtime/system",
+         "superId" : "i:201326596",
+         "type" : "object",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "0.9"
+}

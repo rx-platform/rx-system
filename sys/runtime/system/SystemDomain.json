@@ -3,19 +3,19 @@
       "def" : {
          "instance" : {
             "app" : "i:11",
-            "objects" : null,
-            "processor" : 1
+            "priority" : 1,
+            "processor" : -1
          },
          "overrides" : null,
          "programs" : null
       },
       "meta" : {
          "attrs" : 31,
-         "created" : "2020-01-15T10:00:47.831Z",
-         "modified" : "2020-01-15T10:00:47.832Z",
+         "created" : "2020-02-12T23:47:37.746Z",
+         "modified" : "2020-02-12T23:47:37.746Z",
          "name" : "SystemDomain",
          "nodeId" : "i:12",
-         "path" : "/sys/objects/system",
+         "path" : "/sys/runtime/system",
          "superId" : "i:201326593",
          "type" : "domain",
          "ver" : "1.0"

@@ -5,19 +5,27 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "IPAddress",
-               "type" : "const_value",
-               "value" : {
-                  "type" : 13,
-                  "val" : ""
-               }
-            },
-            {
-               "name" : "IPPort",
+               "name" : "IOThreads",
                "type" : "const_value",
                "value" : {
                   "type" : 5,
                   "val" : 0
+               }
+            },
+            {
+               "name" : "Workers",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "CalcTimer",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 1,
+                  "val" : false
                }
             }
          ],
@@ -27,10 +35,10 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-02-12T23:47:37.736Z",
-         "modified" : "2020-02-12T23:47:37.736Z",
-         "name" : "IPBindData",
-         "nodeId" : "i:201326625",
+         "created" : "2020-02-12T23:47:37.738Z",
+         "modified" : "2020-02-12T23:47:37.738Z",
+         "name" : "RuntimeData",
+         "nodeId" : "i:201326631",
          "path" : "/sys/types/support",
          "superId" : "i:5",
          "type" : "struct_type",

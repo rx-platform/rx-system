@@ -9,10 +9,8 @@
                "name" : "CPU",
                "type" : "const_value",
                "value" : {
-                  "_val" : {
-                     "type" : 6,
-                     "val" : -1
-                  }
+                  "type" : 6,
+                  "val" : -1
                }
             },
             {
@@ -31,8 +29,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-01-15T10:00:47.823Z",
-         "modified" : "2020-01-15T10:00:47.823Z",
+         "created" : "2020-02-12T23:47:37.735Z",
+         "modified" : "2020-02-12T23:47:37.735Z",
          "name" : "DomainBase",
          "nodeId" : "i:2",
          "path" : "/sys/types/base",

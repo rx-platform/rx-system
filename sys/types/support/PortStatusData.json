@@ -9,10 +9,8 @@
                "ro" : false,
                "type" : "value",
                "value" : {
-                  "_val" : {
-                     "type" : 8,
-                     "val" : 0
-                  }
+                  "type" : 8,
+                  "val" : 0
                }
             },
             {
@@ -20,10 +18,8 @@
                "ro" : true,
                "type" : "value",
                "value" : {
-                  "_val" : {
-                     "type" : 1,
-                     "val" : false
-                  }
+                  "type" : 1,
+                  "val" : false
                }
             },
             {
@@ -31,10 +27,8 @@
                "ro" : false,
                "type" : "value",
                "value" : {
-                  "_val" : {
-                     "type" : 8,
-                     "val" : 0
-                  }
+                  "type" : 8,
+                  "val" : 0
                }
             }
          ],
@@ -44,8 +38,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-01-15T10:00:47.824Z",
-         "modified" : "2020-01-15T10:00:47.824Z",
+         "created" : "2020-02-12T23:47:37.736Z",
+         "modified" : "2020-02-12T23:47:37.736Z",
          "name" : "PortStatusData",
          "nodeId" : "i:201326617",
          "path" : "/sys/types/support",

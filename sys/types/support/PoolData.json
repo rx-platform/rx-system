@@ -5,11 +5,11 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "supportsANSI",
+               "name" : "Threads",
                "type" : "const_value",
                "value" : {
-                  "type" : 1,
-                  "val" : false
+                  "type" : 5,
+                  "val" : 0
                }
             }
          ],
@@ -18,12 +18,12 @@
          "sealed" : false
       },
       "meta" : {
-         "attrs" : 15,
-         "created" : "2019-11-13T23:48:26.315Z",
-         "modified" : "2020-02-12T23:47:37.755Z",
-         "name" : "stdIODetails",
-         "nodeId" : "999:g:63eea0a1-edcc-438b-8a24-db6bdb136620",
-         "path" : "/sys/host/types",
+         "attrs" : 97,
+         "created" : "2020-02-12T23:47:37.737Z",
+         "modified" : "2020-02-12T23:47:37.737Z",
+         "name" : "PoolData",
+         "nodeId" : "i:201326630",
+         "path" : "/sys/types/support",
          "superId" : "i:5",
          "type" : "struct_type",
          "ver" : "1.0"

@@ -9,10 +9,8 @@
                "ro" : false,
                "type" : "value",
                "value" : {
-                  "_val" : {
-                     "type" : 8,
-                     "val" : 0
-                  }
+                  "type" : 8,
+                  "val" : 0
                }
             },
             {
@@ -20,10 +18,8 @@
                "ro" : false,
                "type" : "value",
                "value" : {
-                  "_val" : {
-                     "type" : 8,
-                     "val" : 0
-                  }
+                  "type" : 8,
+                  "val" : 0
                }
             }
          ],
@@ -33,8 +29,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-01-15T10:00:47.824Z",
-         "modified" : "2020-01-15T10:00:47.824Z",
+         "created" : "2020-02-12T23:47:37.736Z",
+         "modified" : "2020-02-12T23:47:37.736Z",
          "name" : "PhysicalPortStatusData",
          "nodeId" : "i:201326624",
          "path" : "/sys/types/support",

@@ -14,13 +14,13 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2020-01-15T10:00:47.844Z",
+         "modified" : "2020-02-12T23:47:37.762Z",
          "name" : "ModbusMasterConnection",
          "nodeId" : "g:ac064be0-52b6-4d41-b607-db0f8987207b",
          "path" : "/sys/plugins/modbus/master",
          "superId" : "i:201326606",
          "type" : "port_type",
-         "ver" : "1.0"
+         "ver" : "1.1"
       }
    }
 }

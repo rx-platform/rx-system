@@ -1,0 +1,23 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "domain" : "i:12"
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 31,
+         "created" : "2020-02-12T23:47:37.749Z",
+         "modified" : "2020-02-12T23:47:37.749Z",
+         "name" : "MetaPool",
+         "nodeId" : "i:134217753",
+         "path" : "/sys/runtime/system",
+         "superId" : "i:201326633",
+         "type" : "object",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "0.9"
+}

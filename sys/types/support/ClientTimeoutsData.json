@@ -9,10 +9,8 @@
                "ro" : false,
                "type" : "value",
                "value" : {
-                  "_val" : {
-                     "type" : 7,
-                     "val" : 5000
-                  }
+                  "type" : 7,
+                  "val" : 5000
                }
             }
          ],
@@ -22,8 +20,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-01-15T10:00:47.825Z",
-         "modified" : "2020-01-15T10:00:47.825Z",
+         "created" : "2020-02-12T23:47:37.737Z",
+         "modified" : "2020-02-12T23:47:37.737Z",
          "name" : "ClientTimeoutsData",
          "nodeId" : "i:201326629",
          "path" : "/sys/types/support",

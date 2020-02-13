@@ -8,20 +8,16 @@
                "name" : "InPipe",
                "type" : "const_value",
                "value" : {
-                  "_val" : {
                      "type" : 8,
                      "val" : -1
-                  }
                }
             },
             {
                "name" : "OutPipe",
                "type" : "const_value",
                "value" : {
-                  "_val" : {
                      "type" : 8,
                      "val" : -1
-                  }
                }
             }
          ],

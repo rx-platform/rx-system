@@ -4,7 +4,15 @@
       "def" : {
          "abstract" : false,
          "constructable" : false,
-         "items" : null,
+         "items" : [
+            {
+               "name" : "Runtime",
+               "target" : {
+                  "id" : "i:201326631"
+               },
+               "type" : "struct"
+            }
+         ],
          "mappers" : null,
          "overrides" : null,
          "programs" : null,
@@ -13,8 +21,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-01-15T10:00:47.826Z",
-         "modified" : "2020-01-15T10:00:47.826Z",
+         "created" : "2020-02-12T23:47:37.739Z",
+         "modified" : "2020-02-12T23:47:37.739Z",
          "name" : "RuntimeType",
          "nodeId" : "i:201326596",
          "path" : "/sys/types/system",

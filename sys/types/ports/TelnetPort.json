@@ -13,10 +13,10 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-02-12T23:47:37.742Z",
-         "modified" : "2020-02-12T23:47:37.742Z",
+         "created" : "2020-04-11T12:11:30.128Z",
+         "modified" : "2020-04-11T12:11:30.128Z",
          "name" : "TelnetPort",
-         "nodeId" : "i:201326627",
+         "nodeId" : "i:201326616",
          "path" : "/sys/types/ports",
          "superId" : "i:201326605",
          "type" : "port_type",

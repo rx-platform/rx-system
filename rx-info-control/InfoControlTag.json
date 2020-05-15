@@ -1,0 +1,47 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "Units",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            },
+            {
+               "name" : "TagPath",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            },
+            {
+               "name" : "Description",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 15,
+         "created" : "2020-05-15T12:14:28.411Z",
+         "modified" : "2020-05-15T12:16:19.035Z",
+         "name" : "InfoControlTag",
+         "nodeId" : "g:6259357d-06f6-4585-bcc0-35c1eb479e60",
+         "path" : "/sys/host",
+         "superId" : "i:9",
+         "type" : "mapper_type",
+         "ver" : "1.0"
+      }
+   }
+}

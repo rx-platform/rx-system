@@ -14,7 +14,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2020-04-11T12:11:30.201Z",
+         "modified" : "2020-05-07T11:40:55.425Z",
          "name" : "ModbusRTUMaster",
          "nodeId" : "g:ac0183ae-983c-40a6-b53e-1f328eaa0fc2",
          "path" : "/sys/plugins/modbus/transport",

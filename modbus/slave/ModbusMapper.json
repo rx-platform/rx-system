@@ -1,0 +1,32 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "items" : [
+            {
+               "name" : "Address",
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-05-05T12:06:09.419Z",
+         "modified" : "2020-05-07T11:44:59.689Z",
+         "name" : "ModbusMapper",
+         "nodeId" : "g:54bd4120-967e-45ed-98e1-9d67b89f1df1",
+         "path" : "/sys/plugins/modbus/slave",
+         "superId" : "i:201326643",
+         "type" : "mapper_type",
+         "ver" : "1.6"
+      }
+   }
+}

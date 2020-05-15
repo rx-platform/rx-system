@@ -1,0 +1,22 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-05-06T07:25:56.724Z",
+         "modified" : "2020-05-07T11:40:55.405Z",
+         "name" : "ModbusCoil",
+         "nodeId" : "g:32c6e09d-f6fc-4d1d-8dcd-d40b1603adea",
+         "path" : "/sys/plugins/modbus/slave",
+         "superId" : "g:54bd4120-967e-45ed-98e1-9d67b89f1df1",
+         "type" : "mapper_type",
+         "ver" : "1.1"
+      }
+   }
+}

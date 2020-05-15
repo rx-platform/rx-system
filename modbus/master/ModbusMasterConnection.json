@@ -14,7 +14,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2020-04-11T12:11:30.192Z",
+         "modified" : "2020-05-07T11:40:55.404Z",
          "name" : "ModbusMasterConnection",
          "nodeId" : "g:ac064be0-52b6-4d41-b607-db0f8987207b",
          "path" : "/sys/plugins/modbus/master",

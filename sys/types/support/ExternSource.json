@@ -5,27 +5,26 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "Threads",
+               "name" : "Port",
                "type" : "const_value",
                "value" : {
-                  "type" : 5,
-                  "val" : 0
+                  "type" : 13,
+                  "val" : ""
                }
             }
          ],
-         "mappers" : null,
          "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-05-07T11:40:55.256Z",
-         "modified" : "2020-05-07T11:40:55.256Z",
-         "name" : "PoolData",
-         "nodeId" : "i:201326630",
+         "created" : "2020-05-07T11:40:55.255Z",
+         "modified" : "2020-05-07T11:40:55.255Z",
+         "name" : "ExternSource",
+         "nodeId" : "i:201326644",
          "path" : "/sys/types/support",
-         "superId" : "i:5",
-         "type" : "struct_type",
+         "superId" : "i:8",
+         "type" : "source_type",
          "ver" : "1.0"
       }
    }

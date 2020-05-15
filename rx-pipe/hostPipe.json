@@ -8,19 +8,23 @@
                "id" : "2:i:3"
             }
          },
-         "overrides" : null,
+         "overrides" : {
+            "Object" : {
+               "Description" : "neki svoj"
+            }
+         },
          "programs" : null
       },
       "meta" : {
          "attrs" : 31,
          "created" : "2019-11-13T21:01:37.671Z",
-         "modified" : "2020-02-12T23:50:54.983Z",
+         "modified" : "2020-04-26T20:23:53.324Z",
          "name" : "hostPipe",
          "nodeId" : "2:i:2",
          "path" : "/sys/host",
          "superId" : "2:i:1",
          "type" : "port",
-         "ver" : "1.91"
+         "ver" : "1.92"
       }
    },
    "sversion" : "0.9"

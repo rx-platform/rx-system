@@ -1,0 +1,31 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "items" : [
+            {
+               "name" : "Port",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-05-07T11:40:55.255Z",
+         "modified" : "2020-05-07T11:45:22.507Z",
+         "name" : "ExternMapper",
+         "nodeId" : "i:201326643",
+         "path" : "/sys/types/support",
+         "superId" : "i:9",
+         "type" : "mapper_type",
+         "ver" : "1.1"
+      }
+   }
+}

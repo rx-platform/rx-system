@@ -3,18 +3,17 @@
       "def" : {
          "instance" : {
             "app" : "i:11",
-            "identity" : "AA==",
-            "next_up" : {
-               "id" : "3:i:4"
-            }
+            "identity" : "AA=="
          },
-         "overrides" : null,
+         "overrides" : {
+            "StackTop" : "./stdIO"
+         },
          "programs" : null
       },
       "meta" : {
          "attrs" : 31,
-         "created" : "2019-12-04T11:39:16.512Z",
-         "modified" : "2020-05-07T11:40:55.394Z",
+         "created" : "2020-06-26T10:55:27.247Z",
+         "modified" : "2020-06-26T10:55:27.247Z",
          "name" : "stdVT100",
          "nodeId" : "3:i:3",
          "path" : "/sys/host",

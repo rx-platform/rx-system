@@ -3,16 +3,17 @@
       "def" : {
          "instance" : {
             "app" : "i:11",
-            "identity" : "AA==",
-            "next_up" : null
+            "identity" : "AA=="
          },
-         "overrides" : null,
+         "overrides" : {
+            "StackTop" : "./stdVT100"
+         },
          "programs" : null
       },
       "meta" : {
          "attrs" : 31,
-         "created" : "2019-11-13T21:01:37.671Z",
-         "modified" : "2020-05-07T11:40:55.390Z",
+         "created" : "2020-06-26T10:55:27.225Z",
+         "modified" : "2020-06-26T10:55:27.225Z",
          "name" : "interactiveConsole",
          "nodeId" : "3:i:4",
          "path" : "/sys/host",

@@ -10,7 +10,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2020-05-06T07:25:56.724Z",
-         "modified" : "2020-05-07T11:40:55.405Z",
+         "modified" : "2020-06-10T13:36:58.024Z",
          "name" : "ModbusCoil",
          "nodeId" : "g:32c6e09d-f6fc-4d1d-8dcd-d40b1603adea",
          "path" : "/sys/plugins/modbus/slave",

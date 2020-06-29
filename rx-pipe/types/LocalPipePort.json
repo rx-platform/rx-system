@@ -8,8 +8,7 @@
             {
                "name" : "Pipe",
                "target" : {
-                  "id" : "999:g:cfd059b7-2809-4583-9ea0-cb33b2c0b6cf",
-                  "is_id" : true
+                  "id" : "999:g:cfd059b7-2809-4583-9ea0-cb33b2c0b6cf"
                },
                "type" : "struct"
             }

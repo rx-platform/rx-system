@@ -3,14 +3,23 @@
    "type" : {
       "def" : {
          "abstract" : false,
-         "items" : null,
+         "items" : [
+            {
+               "name" : "ValueType",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 3,
+                  "val" : 0
+               }
+            }
+         ],
          "overrides" : null,
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-05-07T11:40:55.250Z",
-         "modified" : "2020-05-07T11:40:55.250Z",
+         "created" : "2020-06-26T10:55:26.754Z",
+         "modified" : "2020-06-26T10:55:26.754Z",
          "name" : "SourceBase",
          "nodeId" : "i:8",
          "path" : "/sys/types/base",

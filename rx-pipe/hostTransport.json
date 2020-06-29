@@ -4,11 +4,13 @@
          "instance" : {
             "app" : "i:11",
             "identity" : "AA==",
-            "next_up" : {
-               "id" : "2:i:4"
+            "top" : {
+               "path" : "hostPipe"
             }
          },
-         "overrides" : null,
+		 "overrides" : {
+            "StackTop" : "./hostPipe"
+         },
          "programs" : null
       },
       "meta" : {

@@ -4,7 +4,15 @@
       "def" : {
          "abstract" : false,
          "constructable" : false,
-         "items" : null,
+         "items" : [
+            {
+               "name" : "Modbus",
+               "target" : {
+                  "id" : "g:a5ed85a3-0641-40d8-95a5-3efda9d0eb21"
+               },
+               "type" : "struct"
+            }
+         ],
          "mappers" : null,
          "overrides" : null,
          "programs" : null,
@@ -14,13 +22,13 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2019-05-11T15:01:03.408Z",
-         "modified" : "2020-05-07T11:40:55.404Z",
+         "modified" : "2020-06-10T13:36:58.023Z",
          "name" : "ModbusMasterConnection",
          "nodeId" : "g:ac064be0-52b6-4d41-b607-db0f8987207b",
          "path" : "/sys/plugins/modbus/master",
          "superId" : "i:201326606",
          "type" : "port_type",
-         "ver" : "1.1"
+         "ver" : "1.2"
       }
    }
 }

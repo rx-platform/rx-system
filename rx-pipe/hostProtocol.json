@@ -3,24 +3,23 @@
       "def" : {
          "instance" : {
             "app" : "i:11",
-            "identity" : "AA==",
-            "next_up" : {
-               "id" : null
-            }
+            "identity" : "AA=="
          },
-         "overrides" : null,
+         "overrides" : {
+            "StackTop" : "./hostTransport"
+         },
          "programs" : null
       },
       "meta" : {
          "attrs" : 31,
          "created" : "2019-11-13T21:01:37.671Z",
-         "modified" : "2020-02-12T23:50:54.983Z",
+         "modified" : "2020-06-10T11:05:21.982Z",
          "name" : "hostProtocol",
          "nodeId" : "2:i:4",
          "path" : "/sys/host",
-         "superId" : "1:i:201326626",
+         "superId" : "i:201326626",
          "type" : "port",
-         "ver" : "1.91"
+         "ver" : "1.92"
       }
    },
    "sversion" : "0.9"

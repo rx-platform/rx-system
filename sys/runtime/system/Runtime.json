@@ -8,9 +8,9 @@
          "programs" : null
       },
       "meta" : {
-         "attrs" : 31,
-         "created" : "2020-05-07T11:40:55.334Z",
-         "modified" : "2020-05-07T11:40:55.335Z",
+         "attrs" : 97,
+         "created" : "2020-06-26T10:55:27.000Z",
+         "modified" : "2020-06-26T10:55:27.000Z",
          "name" : "Runtime",
          "nodeId" : "i:134217730",
          "path" : "/sys/runtime/system",

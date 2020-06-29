@@ -16,13 +16,23 @@
          "mappers" : null,
          "overrides" : null,
          "programs" : null,
-         "relations" : null,
+         "relations" : [
+            {
+               "name" : "StackTop",
+               "relation" : {
+                  "id" : "i:15"
+               },
+               "target" : {
+                  "id" : "i:4"
+               }
+            }
+         ],
          "sealed" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-05-07T11:40:55.263Z",
-         "modified" : "2020-05-07T11:40:55.263Z",
+         "created" : "2020-06-26T10:55:26.780Z",
+         "modified" : "2020-06-26T10:55:26.780Z",
          "name" : "TransportPort",
          "nodeId" : "i:201326605",
          "path" : "/sys/types/ports",

@@ -13,11 +13,11 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-06-26T10:55:26.781Z",
-         "modified" : "2020-06-26T10:55:26.781Z",
-         "name" : "OPCUATransport",
-         "nodeId" : "i:201326642",
-         "path" : "/sys/types/ports",
+         "created" : "2019-05-11T15:01:03.408Z",
+         "modified" : "2020-06-10T13:36:58.034Z",
+         "name" : "ModbusTCPMaster",
+         "nodeId" : "g:be2a48f6-6758-43f0-9691-110582ec8b5a",
+         "path" : "/sys/plugins/modbus/transport",
          "superId" : "i:201326605",
          "type" : "port_type",
          "ver" : "1.0"

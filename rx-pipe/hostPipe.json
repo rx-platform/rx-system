@@ -4,9 +4,7 @@
          "instance" : {
             "app" : "i:11",
             "identity" : "AA==",
-            "next_up" : {
-               "id" : "2:i:3"
-            }
+			"top" : null
          },
          "overrides" : {
             "Object" : {

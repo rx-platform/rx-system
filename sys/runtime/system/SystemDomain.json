@@ -10,9 +10,9 @@
          "programs" : null
       },
       "meta" : {
-         "attrs" : 31,
-         "created" : "2020-05-07T11:40:55.333Z",
-         "modified" : "2020-05-07T11:40:55.334Z",
+         "attrs" : 97,
+         "created" : "2020-06-26T10:55:26.984Z",
+         "modified" : "2020-06-26T10:55:26.984Z",
          "name" : "SystemDomain",
          "nodeId" : "i:12",
          "path" : "/sys/runtime/system",

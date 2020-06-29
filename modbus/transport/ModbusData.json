@@ -5,11 +5,11 @@
          "abstract" : false,
          "items" : [
             {
-               "name" : "supportsANSI",
+               "name" : "Address",
                "type" : "const_value",
                "value" : {
-                  "type" : 1,
-                  "val" : false
+                  "type" : 5,
+                  "val" : 0
                }
             }
          ],
@@ -18,12 +18,12 @@
          "sealed" : false
       },
       "meta" : {
-         "attrs" : 15,
-         "created" : "2019-11-13T23:48:26.315Z",
-         "modified" : "2020-06-10T13:36:57.969Z",
-         "name" : "stdIODetails",
-         "nodeId" : "999:g:63eea0a1-edcc-438b-8a24-db6bdb136620",
-         "path" : "/sys/host/types",
+         "attrs" : 97,
+         "created" : "2020-05-17T12:20:00.188Z",
+         "modified" : "2020-06-10T13:36:58.031Z",
+         "name" : "ModbusData",
+         "nodeId" : "g:a5ed85a3-0641-40d8-95a5-3efda9d0eb21",
+         "path" : "/sys/plugins/modbus/transport",
          "superId" : "i:5",
          "type" : "struct_type",
          "ver" : "1.0"

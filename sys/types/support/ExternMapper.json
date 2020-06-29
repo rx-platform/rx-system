@@ -2,7 +2,7 @@
    "sversion" : "0.9",
    "type" : {
       "def" : {
-         "abstract" : true,
+         "abstract" : false,
          "items" : [
             {
                "name" : "Port",
@@ -18,14 +18,14 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-05-07T11:40:55.255Z",
-         "modified" : "2020-05-07T11:45:22.507Z",
+         "created" : "2020-06-26T10:55:26.764Z",
+         "modified" : "2020-06-26T10:55:26.764Z",
          "name" : "ExternMapper",
          "nodeId" : "i:201326643",
          "path" : "/sys/types/support",
          "superId" : "i:9",
          "type" : "mapper_type",
-         "ver" : "1.1"
+         "ver" : "1.0"
       }
    }
 }

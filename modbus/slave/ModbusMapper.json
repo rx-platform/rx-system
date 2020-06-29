@@ -20,7 +20,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2020-05-05T12:06:09.419Z",
-         "modified" : "2020-05-07T11:44:59.689Z",
+         "modified" : "2020-06-10T13:36:58.028Z",
          "name" : "ModbusMapper",
          "nodeId" : "g:54bd4120-967e-45ed-98e1-9d67b89f1df1",
          "path" : "/sys/plugins/modbus/slave",

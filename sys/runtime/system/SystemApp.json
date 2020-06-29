@@ -2,17 +2,17 @@
    "object" : {
       "def" : {
          "instance" : {
-            "identity" : "AA==",
-            "priority" : 0,
+            "identity" : "",
+            "priority" : 1,
             "processor" : 0
          },
          "overrides" : null,
          "programs" : null
       },
       "meta" : {
-         "attrs" : 31,
-         "created" : "2020-05-07T11:40:55.265Z",
-         "modified" : "2020-05-07T11:40:55.285Z",
+         "attrs" : 97,
+         "created" : "2020-06-26T10:55:26.806Z",
+         "modified" : "2020-06-26T10:55:26.806Z",
          "name" : "SystemApp",
          "nodeId" : "i:11",
          "path" : "/sys/runtime/system",

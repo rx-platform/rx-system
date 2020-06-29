@@ -8,9 +8,9 @@
          "programs" : null
       },
       "meta" : {
-         "attrs" : 31,
-         "created" : "2020-05-07T11:40:55.336Z",
-         "modified" : "2020-05-07T11:40:55.336Z",
+         "attrs" : 97,
+         "created" : "2020-06-26T10:55:27.012Z",
+         "modified" : "2020-06-26T10:55:27.012Z",
          "name" : "MetaPool",
          "nodeId" : "i:134217753",
          "path" : "/sys/runtime/system",

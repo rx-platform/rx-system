@@ -2,13 +2,16 @@
    "sversion" : "0.9",
    "type" : {
       "def" : {
+         "abstract" : true,
          "hierarchical" : false,
-         "inverse" : null
+         "inverse" : "",
+         "sealed" : false,
+         "symmetrical" : false
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-05-07T11:40:55.255Z",
-         "modified" : "2020-05-07T11:40:55.255Z",
+         "created" : "2020-06-26T10:55:26.764Z",
+         "modified" : "2020-06-26T10:55:26.764Z",
          "name" : "RelationBase",
          "nodeId" : "i:14",
          "path" : "/sys/types/base",

@@ -10,7 +10,7 @@
       "meta" : {
          "attrs" : 97,
          "created" : "2020-05-06T07:25:56.724Z",
-         "modified" : "2020-05-07T11:40:55.421Z",
+         "modified" : "2020-06-10T13:36:58.027Z",
          "name" : "ModbusInputRegister",
          "nodeId" : "g:172d6fcc-5c3a-4b8e-8c5d-79d2eb60ad77",
          "path" : "/sys/plugins/modbus/slave",

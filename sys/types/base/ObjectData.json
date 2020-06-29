@@ -38,6 +38,15 @@
                   "type" : 13,
                   "val" : ""
                }
+            },
+            {
+               "name" : "LoopCount",
+               "ro" : true,
+               "type" : "value",
+               "value" : {
+                  "type" : 7,
+                  "val" : 0
+               }
             }
          ],
          "mappers" : null,
@@ -46,8 +55,8 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-05-07T11:40:55.250Z",
-         "modified" : "2020-05-07T11:40:55.254Z",
+         "created" : "2020-06-26T10:55:26.755Z",
+         "modified" : "2020-06-26T10:55:26.755Z",
          "name" : "ObjectData",
          "nodeId" : "i:13",
          "path" : "/sys/types/base",

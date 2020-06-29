@@ -3,7 +3,7 @@
    "type" : {
       "def" : {
          "abstract" : false,
-         "constructable" : false,
+         "constructable" : true,
          "items" : null,
          "mappers" : null,
          "overrides" : null,
@@ -13,14 +13,14 @@
       },
       "meta" : {
          "attrs" : 97,
-         "created" : "2020-06-26T10:55:26.781Z",
-         "modified" : "2020-06-26T10:55:26.781Z",
-         "name" : "OPCUATransport",
-         "nodeId" : "i:201326642",
-         "path" : "/sys/types/ports",
+         "created" : "2019-05-11T15:01:03.408Z",
+         "modified" : "2020-06-10T13:36:58.035Z",
+         "name" : "ModbusTCPSlave",
+         "nodeId" : "g:4165c81e-0146-4670-8479-1dd2808b35dd",
+         "path" : "/sys/plugins/modbus/transport",
          "superId" : "i:201326605",
          "type" : "port_type",
-         "ver" : "1.0"
+         "ver" : "1.1"
       }
    }
 }

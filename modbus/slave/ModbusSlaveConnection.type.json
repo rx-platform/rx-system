@@ -1,0 +1,39 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "Bind",
+               "target" : {
+                  "id" : "g:a5ed85a3-0641-40d8-95a5-3efda9d0eb21"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.399Z",
+         "modified" : "2021-04-02T11:59:56.399Z",
+         "name" : "ModbusSlaveConnection",
+         "nodeId" : "g:3da88e1b-d4e0-4fff-911d-978f2ee78c8d",
+         "path" : "/sys/plugins/modbus/slave",
+         "super" : {
+            "id" : "i:201326606"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

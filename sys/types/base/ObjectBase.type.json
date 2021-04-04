@@ -1,0 +1,37 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "Object",
+               "target" : {
+                  "id" : "i:13"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.897Z",
+         "modified" : "2021-04-02T11:59:55.897Z",
+         "name" : "ObjectBase",
+         "nodeId" : "i:1",
+         "path" : "/sys/types/base",
+         "super" : null,
+         "type" : "object_type",
+         "ver" : "1.0"
+      }
+   }
+}

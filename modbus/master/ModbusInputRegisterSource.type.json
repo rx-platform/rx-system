@@ -1,0 +1,25 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.462Z",
+         "modified" : "2021-04-02T11:59:56.462Z",
+         "name" : "ModbusInputRegisterSource",
+         "nodeId" : "g:2b8d21ea-e73c-4ff5-b111-09ea0c840f8f",
+         "path" : "/sys/plugins/modbus/master",
+         "super" : {
+            "id" : "g:f58e5ba7-3ec2-4953-a27b-45ede5d6bd47"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

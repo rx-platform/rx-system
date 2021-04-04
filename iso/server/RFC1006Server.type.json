@@ -1,0 +1,26 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-08-19T06:58:57.416Z",
+         "modified" : "2020-08-19T06:58:57.416Z",
+         "name" : "RFC1006Server",
+         "nodeId" : "g:CF7B4A4C-1B63-467E-9335-956A6C3F71B2",
+         "path" : "/sys/plugins/iso/server",
+         "superId" : "i:201326605",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

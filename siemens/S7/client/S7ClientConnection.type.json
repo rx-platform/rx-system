@@ -1,0 +1,41 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : [
+			{
+               "name" : "Connection",
+               "target" : {
+                  "id" : "g:30e89617-768c-4165-a361-8d5ed49d8e7b"
+               },
+               "type" : "struct"
+            },
+            {
+               "name" : "Bind",
+               "target" : {
+                  "id" : "g:30e89617-768c-4165-a361-8d5ed49d8e7b"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-08-19T07:22:16.113Z",
+         "modified" : "2020-08-19T07:22:16.113Z",
+         "name" : "S7ClientConnection",
+         "nodeId" : "g:0CA8E68A-FBD0-46D9-9785-9CEC74DF20C3",
+         "path" : "/sys/plugins/siemens/S7/client",
+         "superId" : "i:201326606",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

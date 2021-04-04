@@ -1,0 +1,34 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : [
+            {
+               "name" : "Bind",
+               "target" : {
+                  "id" : "g:30e89617-768c-4165-a361-8d5ed49d8e7b"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-08-19T07:22:16.113Z",
+         "modified" : "2020-08-19T07:22:16.113Z",
+         "name" : "S7ServerConnection",
+         "nodeId" : "g:2C822469-5A2D-4AFA-BA71-93A769331C03",
+         "path" : "/sys/plugins/siemens/S7/server",
+         "superId" : "i:201326606",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,27 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "args" : {
+            "id" : "i:201326671"
+         },
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.915Z",
+         "modified" : "2021-04-02T11:59:55.915Z",
+         "name" : "ItemChangeEvent",
+         "nodeId" : "i:201326672",
+         "path" : "/sys/types/system",
+         "super" : {
+            "id" : "i:7"
+         },
+         "type" : "event_type",
+         "ver" : "1.0"
+      }
+   }
+}

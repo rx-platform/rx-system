@@ -1,0 +1,35 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "path" : "/sys/runtime/SystemApp"
+            },
+            "identity" : ""
+         },
+         "overrides" : {
+            "Bind" : {
+               "IPPort" : 31420
+            },
+            "Timeouts" : {
+               "ReceiveTimeout" : 16000
+            }
+         },
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.101Z",
+         "modified" : "2021-04-02T11:59:56.101Z",
+         "name" : "TcpServer",
+         "nodeId" : "i:201326658",
+         "path" : "/sys/runtime/ports",
+         "super" : {
+            "id" : "i:201326612"
+         },
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

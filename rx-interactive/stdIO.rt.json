@@ -1,0 +1,28 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "id" : "3:i:6"
+            },
+            "identity" : ""
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.384Z",
+         "modified" : "2021-04-02T11:59:56.384Z",
+         "name" : "stdIO",
+         "nodeId" : "3:i:3",
+         "path" : "/sys/host",
+         "super" : {
+            "id" : "3:i:1"
+         },
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

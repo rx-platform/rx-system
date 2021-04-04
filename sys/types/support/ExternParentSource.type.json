@@ -1,0 +1,34 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "Port",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.902Z",
+         "modified" : "2021-04-02T11:59:55.902Z",
+         "name" : "ExternParentSource",
+         "nodeId" : "i:201326670",
+         "path" : "/sys/types/support",
+         "super" : {
+            "id" : "i:201326663"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

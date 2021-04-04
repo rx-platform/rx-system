@@ -1,0 +1,47 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "items" : [
+            {
+               "name" : "TS",
+               "simple" : true,
+               "value" : {
+                  "type" : 14,
+                  "val" : "2021-04-02T11:59:55.917Z"
+               }
+            },
+            {
+               "name" : "Id",
+               "simple" : true,
+               "value" : {
+                  "type" : 19,
+                  "val" : ""
+               }
+            },
+            {
+               "name" : "Path",
+               "simple" : true,
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            }
+         ],
+         "overrides" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.917Z",
+         "modified" : "2021-04-02T11:59:55.917Z",
+         "name" : "ItemChangeDetails",
+         "nodeId" : "i:201326671",
+         "path" : "/sys/types/system",
+         "super" : {
+            "id" : "i:21"
+         },
+         "type" : "data_type",
+         "ver" : "1.0"
+      }
+   }
+}

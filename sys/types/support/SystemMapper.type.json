@@ -1,0 +1,25 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "filters" : null,
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.901Z",
+         "modified" : "2021-04-02T11:59:55.901Z",
+         "name" : "SystemMapper",
+         "nodeId" : "i:201326662",
+         "path" : "/sys/types/support",
+         "super" : {
+            "id" : "i:9"
+         },
+         "type" : "mapper_type",
+         "ver" : "1.0"
+      }
+   }
+}

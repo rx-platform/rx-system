@@ -1,0 +1,26 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-08-19T06:58:57.416Z",
+         "modified" : "2020-08-19T06:58:57.416Z",
+         "name" : "RFC1006Client",
+         "nodeId" : "g:2F3777CC-051B-49D6-BC72-7C13BCFCAC8A",
+         "path" : "/sys/plugins/iso/client",
+         "superId" : "i:201326605",
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

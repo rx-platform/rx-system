@@ -1,0 +1,25 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.461Z",
+         "modified" : "2021-04-02T11:59:56.461Z",
+         "name" : "ModbusHoldingRegisterSource",
+         "nodeId" : "g:f628eb7c-aafd-4a9a-a28d-c69ba5726ba2",
+         "path" : "/sys/plugins/modbus/master",
+         "super" : {
+            "id" : "g:f58e5ba7-3ec2-4953-a27b-45ede5d6bd47"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

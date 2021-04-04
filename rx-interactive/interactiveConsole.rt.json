@@ -1,0 +1,30 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "id" : "3:i:6"
+            },
+            "identity" : ""
+         },
+         "overrides" : {
+            "StackTop" : "stdVT100"
+         },
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.392Z",
+         "modified" : "2021-04-02T11:59:56.392Z",
+         "name" : "interactiveConsole",
+         "nodeId" : "3:i:5",
+         "path" : "/sys/host",
+         "super" : {
+            "id" : "i:201326595"
+         },
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

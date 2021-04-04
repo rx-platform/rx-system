@@ -1,0 +1,46 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "Master",
+               "target" : {
+                  "id" : "g:4e69d36b-031a-4388-b778-c86f95142cf7"
+               },
+               "type" : "struct"
+            },
+            {
+               "name" : "Connect",
+               "target" : {
+                  "id" : "g:a5ed85a3-0641-40d8-95a5-3efda9d0eb21"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.403Z",
+         "modified" : "2021-04-02T11:59:56.403Z",
+         "name" : "ModbusMasterConnection",
+         "nodeId" : "g:ac064be0-52b6-4d41-b607-db0f8987207b",
+         "path" : "/sys/plugins/modbus/master",
+         "super" : {
+            "id" : "i:201326606"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,58 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "InputRegAddress",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "InputAddress",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "HoldingRegAddress",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "CoilAddress",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.399Z",
+         "modified" : "2021-04-02T11:59:56.399Z",
+         "name" : "ModbusStructMapper",
+         "nodeId" : "g:ebed32f7-1231-4ea2-852d-653a2be13ac5",
+         "path" : "/sys/plugins/modbus/slave",
+         "super" : {
+            "id" : "i:201326669"
+         },
+         "type" : "mapper_type",
+         "ver" : "1.0"
+      }
+   }
+}

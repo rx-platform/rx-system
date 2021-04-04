@@ -1,0 +1,29 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "path" : "/sys/runtime/SystemApp"
+            },
+            "priority" : 1,
+            "processor" : -1
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.071Z",
+         "modified" : "2021-04-02T11:59:56.071Z",
+         "name" : "SystemDomain",
+         "nodeId" : "i:12",
+         "path" : "/sys/runtime/system",
+         "super" : {
+            "id" : "i:201326593"
+         },
+         "type" : "domain",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

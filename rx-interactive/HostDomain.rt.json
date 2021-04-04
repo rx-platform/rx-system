@@ -1,0 +1,29 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "id" : "3:i:6"
+            },
+            "priority" : 1,
+            "processor" : -1
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.381Z",
+         "modified" : "2021-04-02T11:59:56.381Z",
+         "name" : "HostDomain",
+         "nodeId" : "3:i:7",
+         "path" : "/sys/host",
+         "super" : {
+            "id" : "i:201326668"
+         },
+         "type" : "domain",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

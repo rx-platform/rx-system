@@ -1,0 +1,24 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : null,
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.881Z",
+         "modified" : "2021-04-02T11:59:55.881Z",
+         "name" : "StructBase",
+         "nodeId" : "i:5",
+         "path" : "/sys/types/base",
+         "super" : null,
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

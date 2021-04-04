@@ -1,0 +1,36 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "Address",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.460Z",
+         "modified" : "2021-04-02T11:59:56.460Z",
+         "name" : "ModbusSourceBase",
+         "nodeId" : "g:f58e5ba7-3ec2-4953-a27b-45ede5d6bd47",
+         "path" : "/sys/plugins/modbus/master",
+         "super" : {
+            "id" : "i:201326644"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

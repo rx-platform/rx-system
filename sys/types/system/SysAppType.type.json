@@ -1,0 +1,40 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "args" : null,
+               "name" : "ItemChanged",
+               "target" : {
+                  "id" : "i:201326672"
+               },
+               "type" : "event"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.915Z",
+         "modified" : "2021-04-02T11:59:55.915Z",
+         "name" : "SysAppType",
+         "nodeId" : "i:201326592",
+         "path" : "/sys/types/system",
+         "super" : {
+            "id" : "i:201326653"
+         },
+         "type" : "application_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,43 @@
+{
+   "sversion" : "1.1",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "OutPipe",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 8,
+                  "val" : -1
+               }
+            },
+            {
+               "name" : "InPipe",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 8,
+                  "val" : -1
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-03-18T12:15:25.086Z",
+         "modified" : "2021-03-18T12:15:25.086Z",
+         "name" : "PipeDetails",
+         "nodeId" : "2:i:2",
+         "path" : "/sys/host/types",
+         "super" : {
+            "id" : "i:5"
+         },
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

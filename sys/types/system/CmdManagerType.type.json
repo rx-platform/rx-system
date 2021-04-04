@@ -1,0 +1,31 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : null,
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.917Z",
+         "modified" : "2021-04-02T11:59:55.917Z",
+         "name" : "CmdManagerType",
+         "nodeId" : "i:201326594",
+         "path" : "/sys/types/system",
+         "super" : {
+            "id" : "i:201326655"
+         },
+         "type" : "object_type",
+         "ver" : "1.0"
+      }
+   }
+}

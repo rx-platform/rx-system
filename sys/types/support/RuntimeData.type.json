@@ -1,0 +1,51 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "IOThreads",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "Workers",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "CalcTimer",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 1,
+                  "val" : false
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.914Z",
+         "modified" : "2021-04-02T11:59:55.914Z",
+         "name" : "RuntimeData",
+         "nodeId" : "i:201326631",
+         "path" : "/sys/types/support",
+         "super" : {
+            "id" : "i:5"
+         },
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

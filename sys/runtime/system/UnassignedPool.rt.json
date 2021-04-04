@@ -1,0 +1,27 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "domain" : {
+               "path" : "/sys/runtime/SystemDomain"
+            }
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.086Z",
+         "modified" : "2021-04-02T11:59:56.086Z",
+         "name" : "UnassignedPool",
+         "nodeId" : "i:134217733",
+         "path" : "/sys/runtime/system",
+         "super" : {
+            "id" : "i:201326632"
+         },
+         "type" : "object",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

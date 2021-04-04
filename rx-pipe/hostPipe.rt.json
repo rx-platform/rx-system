@@ -1,0 +1,28 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "id" : "2:i:6"
+            },
+            "identity" : ""
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-03-18T12:15:25.089Z",
+         "modified" : "2021-03-18T12:15:25.089Z",
+         "name" : "hostPipe",
+         "nodeId" : "2:i:3",
+         "path" : "/sys/host",
+         "super" : {
+            "id" : "2:i:1"
+         },
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.1"
+}

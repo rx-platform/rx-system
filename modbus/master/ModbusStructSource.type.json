@@ -1,0 +1,66 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "InputRegAddress",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "InputAddress",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "HoldingRegAddress",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "CoilAddress",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.459Z",
+         "modified" : "2021-04-02T11:59:56.459Z",
+         "name" : "ModbusStructSource",
+         "nodeId" : "g:7ad41d69-6bb3-47b7-bee8-d6ad8ab4917a",
+         "path" : "/sys/plugins/modbus/master",
+         "super" : {
+            "id" : "i:201326670"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

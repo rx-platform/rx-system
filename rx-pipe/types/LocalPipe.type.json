@@ -1,0 +1,38 @@
+{
+   "sversion" : "1.1",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "items" : [
+            {
+               "name" : "Pipe",
+               "target" : {
+                  "id" : "2:i:2"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-03-18T12:15:25.087Z",
+         "modified" : "2021-03-18T12:15:25.087Z",
+         "name" : "LocalPipe",
+         "nodeId" : "2:i:1",
+         "path" : "/sys/host/types",
+         "super" : {
+            "id" : "i:201326604"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

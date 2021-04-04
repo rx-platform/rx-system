@@ -1,0 +1,35 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "Address",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 3,
+                  "val" : 0
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.395Z",
+         "modified" : "2021-04-02T11:59:56.395Z",
+         "name" : "ModbusData",
+         "nodeId" : "g:a5ed85a3-0641-40d8-95a5-3efda9d0eb21",
+         "path" : "/sys/plugins/modbus/transport",
+         "super" : {
+            "id" : "i:5"
+         },
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

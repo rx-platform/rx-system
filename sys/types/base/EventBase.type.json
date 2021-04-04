@@ -1,0 +1,23 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "args" : null,
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.884Z",
+         "modified" : "2021-04-02T11:59:55.884Z",
+         "name" : "EventBase",
+         "nodeId" : "i:7",
+         "path" : "/sys/types/base",
+         "super" : null,
+         "type" : "event_type",
+         "ver" : "1.0"
+      }
+   }
+}

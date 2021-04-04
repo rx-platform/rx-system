@@ -1,0 +1,31 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : null,
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.397Z",
+         "modified" : "2021-04-02T11:59:56.397Z",
+         "name" : "ModbusRTUMaster",
+         "nodeId" : "g:ac0183ae-983c-40a6-b53e-1f328eaa0fc2",
+         "path" : "/sys/plugins/modbus/transport",
+         "super" : {
+            "id" : "i:201326648"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

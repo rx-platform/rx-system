@@ -1,0 +1,32 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+		 "filters" : null,
+         "items" : [
+            {
+               "name" : "TagPath",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 13,
+                  "val" : ""
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2020-05-05T12:06:09.419Z",
+         "modified" : "2020-06-10T13:36:58.028Z",
+         "name" : "InfoControlMapper",
+         "nodeId" : "g:85691f85-b125-4f12-a58e-962fcbc01008",
+         "path" : "/sys/host",
+         "superId" : "i:201326661",
+         "type" : "mapper_type",
+         "ver" : "1.0"
+      }
+   }
+}

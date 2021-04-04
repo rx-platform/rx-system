@@ -1,0 +1,53 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "Connect",
+               "target" : {
+                  "id" : "i:201326625"
+               },
+               "type" : "struct"
+            },
+            {
+               "name" : "Bind",
+               "target" : {
+                  "id" : "i:201326625"
+               },
+               "type" : "struct"
+            },
+            {
+               "name" : "Timeouts",
+               "target" : {
+                  "id" : "i:201326629"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.922Z",
+         "modified" : "2021-04-02T11:59:55.922Z",
+         "name" : "TCPClientPort",
+         "nodeId" : "i:201326613",
+         "path" : "/sys/types/ports",
+         "super" : {
+            "id" : "i:201326604"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,39 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "IODetails",
+               "target" : {
+                  "id" : "3:i:2"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.378Z",
+         "modified" : "2021-04-02T11:59:56.378Z",
+         "name" : "StdIO",
+         "nodeId" : "3:i:1",
+         "path" : "/sys/host/types",
+         "super" : {
+            "id" : "i:201326604"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}

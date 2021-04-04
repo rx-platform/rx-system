@@ -1,0 +1,36 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "Period",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 7,
+                  "val" : 50
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.926Z",
+         "modified" : "2021-04-02T11:59:55.926Z",
+         "name" : "SimulationSource",
+         "nodeId" : "i:201326656",
+         "path" : "/sys/types/simulation",
+         "super" : {
+            "id" : "i:8"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

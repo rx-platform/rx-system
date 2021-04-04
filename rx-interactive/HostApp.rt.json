@@ -1,0 +1,27 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "identity" : "",
+            "priority" : 1,
+            "processor" : 0
+         },
+         "overrides" : null,
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.379Z",
+         "modified" : "2021-04-02T11:59:56.379Z",
+         "name" : "HostApp",
+         "nodeId" : "3:i:6",
+         "path" : "/sys/host",
+         "super" : {
+            "id" : "i:201326667"
+         },
+         "type" : "application",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

@@ -1,0 +1,65 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "HiEU",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 11,
+                  "val" : 100
+               }
+            },
+            {
+               "name" : "LowEU",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 11,
+                  "val" : 0
+               }
+            },
+            {
+               "name" : "HiRaw",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 11,
+                  "val" : 10
+               }
+            },
+            {
+               "name" : "LowRaw",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 11,
+                  "val" : 0
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.903Z",
+         "modified" : "2021-04-02T11:59:55.903Z",
+         "name" : "LinearScaling",
+         "nodeId" : "i:201326649",
+         "path" : "/sys/types/support",
+         "super" : {
+            "id" : "i:10"
+         },
+         "type" : "filter_type",
+         "ver" : "1.0"
+      }
+   }
+}

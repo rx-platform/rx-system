@@ -1,0 +1,35 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "supportsANSI",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 1,
+                  "val" : false
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.366Z",
+         "modified" : "2021-04-02T11:59:56.366Z",
+         "name" : "StdIODetails",
+         "nodeId" : "3:i:2",
+         "path" : "/sys/host/types",
+         "super" : {
+            "id" : "i:5"
+         },
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

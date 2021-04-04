@@ -1,0 +1,32 @@
+{
+   "sversion" : "0.9",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "Ref",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 5,
+                  "val" : 0
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 15,
+         "created" : "2020-08-19T07:09:51.638Z",
+         "modified" : "2020-08-19T07:09:51.638Z",
+         "name" : "TSAP",
+         "nodeId" : "g:30e89617-768c-4165-a361-8d5ed49d8e7b",
+         "path" : "/sys/plugins/iso/common",
+         "superId" : "i:5",
+         "type" : "struct_type",
+         "ver" : "1.2"
+      }
+   }
+}

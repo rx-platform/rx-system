@@ -1,0 +1,32 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "ValueType",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 3,
+                  "val" : 0
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.884Z",
+         "modified" : "2021-04-02T11:59:55.884Z",
+         "name" : "SourceBase",
+         "nodeId" : "i:8",
+         "path" : "/sys/types/base",
+         "super" : null,
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

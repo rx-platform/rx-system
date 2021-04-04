@@ -1,0 +1,45 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "CPU",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 6,
+                  "val" : -1
+               }
+            },
+            {
+               "name" : "Object",
+               "target" : {
+                  "id" : "i:13"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.898Z",
+         "modified" : "2021-04-02T11:59:55.898Z",
+         "name" : "ApplicationBase",
+         "nodeId" : "i:3",
+         "path" : "/sys/types/base",
+         "super" : null,
+         "type" : "application_type",
+         "ver" : "1.0"
+      }
+   }
+}

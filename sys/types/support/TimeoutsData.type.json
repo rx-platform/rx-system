@@ -1,0 +1,47 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "items" : [
+            {
+               "name" : "ReceiveTimeout",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 7,
+                  "val" : 10000
+               }
+            },
+            {
+               "name" : "SendTimeout",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 7,
+                  "val" : 1000
+               }
+            }
+         ],
+         "mappers" : null,
+         "overrides" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.904Z",
+         "modified" : "2021-04-02T11:59:55.904Z",
+         "name" : "TimeoutsData",
+         "nodeId" : "i:201326628",
+         "path" : "/sys/types/support",
+         "super" : {
+            "id" : "i:5"
+         },
+         "type" : "struct_type",
+         "ver" : "1.0"
+      }
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : null,
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.403Z",
+         "modified" : "2021-04-02T11:59:56.403Z",
+         "name" : "ModbusInputRegister",
+         "nodeId" : "g:172d6fcc-5c3a-4b8e-8c5d-79d2eb60ad77",
+         "path" : "/sys/plugins/modbus/slave",
+         "super" : {
+            "id" : "g:54bd4120-967e-45ed-98e1-9d67b89f1df1"
+         },
+         "type" : "mapper_type",
+         "ver" : "1.0"
+      }
+   }
+}

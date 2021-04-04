@@ -1,0 +1,30 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "path" : "/sys/runtime/SystemApp"
+            },
+            "identity" : ""
+         },
+         "overrides" : {
+            "StackTop" : "./TcpServer"
+         },
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.101Z",
+         "modified" : "2021-04-02T11:59:56.289Z",
+         "name" : "OpcUaTransport",
+         "nodeId" : "i:201326659",
+         "path" : "/sys/runtime/ports",
+         "super" : {
+            "id" : "i:201326642"
+         },
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

@@ -1,0 +1,34 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : false,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "WriteThrough",
+               "type" : "const_value",
+               "value" : {
+                  "type" : 1,
+                  "val" : false
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.401Z",
+         "modified" : "2021-04-02T11:59:56.401Z",
+         "name" : "ModbusCoil",
+         "nodeId" : "g:32c6e09d-f6fc-4d1d-8dcd-d40b1603adea",
+         "path" : "/sys/plugins/modbus/slave",
+         "super" : {
+            "id" : "g:54bd4120-967e-45ed-98e1-9d67b89f1df1"
+         },
+         "type" : "mapper_type",
+         "ver" : "1.0"
+      }
+   }
+}

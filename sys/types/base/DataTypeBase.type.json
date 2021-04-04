@@ -1,0 +1,20 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "items" : null,
+         "overrides" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.855Z",
+         "modified" : "2021-04-02T11:59:55.855Z",
+         "name" : "DataTypeBase",
+         "nodeId" : "i:21",
+         "path" : "/sys/types/base",
+         "super" : null,
+         "type" : "data_type",
+         "ver" : "1.0"
+      }
+   }
+}

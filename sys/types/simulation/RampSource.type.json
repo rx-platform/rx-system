@@ -1,0 +1,56 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "filters" : null,
+         "items" : [
+            {
+               "name" : "Amplitude",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 11,
+                  "val" : 100
+               }
+            },
+            {
+               "name" : "Increment",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 11,
+                  "val" : 1
+               }
+            },
+            {
+               "name" : "Double",
+               "persist" : true,
+               "ro" : false,
+               "type" : "value",
+               "value" : {
+                  "type" : 1,
+                  "val" : false
+               }
+            }
+         ],
+         "overrides" : null,
+         "sealed" : false
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.926Z",
+         "modified" : "2021-04-02T11:59:55.926Z",
+         "name" : "RampSource",
+         "nodeId" : "i:201326657",
+         "path" : "/sys/types/simulation",
+         "super" : {
+            "id" : "i:201326656"
+         },
+         "type" : "source_type",
+         "ver" : "1.0"
+      }
+   }
+}

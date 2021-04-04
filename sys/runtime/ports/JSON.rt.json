@@ -1,0 +1,30 @@
+{
+   "object" : {
+      "def" : {
+         "instance" : {
+            "app" : {
+               "path" : "/sys/runtime/SystemApp"
+            },
+            "identity" : ""
+         },
+         "overrides" : {
+            "StackTop" : "./OpcUaTransport"
+         },
+         "programs" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:56.101Z",
+         "modified" : "2021-04-02T11:59:56.323Z",
+         "name" : "JSON",
+         "nodeId" : "i:201326660",
+         "path" : "/sys/runtime/ports",
+         "super" : {
+            "id" : "i:201326626"
+         },
+         "type" : "port",
+         "ver" : "1.0"
+      }
+   },
+   "sversion" : "1.2"
+}

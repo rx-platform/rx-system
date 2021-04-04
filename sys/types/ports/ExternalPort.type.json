@@ -1,0 +1,39 @@
+{
+   "sversion" : "1.2",
+   "type" : {
+      "def" : {
+         "abstract" : true,
+         "constructable" : false,
+         "displays" : null,
+         "items" : [
+            {
+               "name" : "Status",
+               "target" : {
+                  "id" : "i:201326624"
+               },
+               "type" : "struct"
+            }
+         ],
+         "mappers" : null,
+         "methods" : null,
+         "overrides" : null,
+         "programs" : null,
+         "relations" : null,
+         "sealed" : false,
+         "sources" : null
+      },
+      "meta" : {
+         "attrs" : 97,
+         "created" : "2021-04-02T11:59:55.920Z",
+         "modified" : "2021-04-02T11:59:55.920Z",
+         "name" : "ExternalPort",
+         "nodeId" : "i:201326604",
+         "path" : "/sys/types/ports",
+         "super" : {
+            "id" : "i:4"
+         },
+         "type" : "port_type",
+         "ver" : "1.0"
+      }
+   }
+}
